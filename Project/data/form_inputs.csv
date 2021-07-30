@@ -1,0 +1,1001 @@
+school,state,subject,course_level,time,location,group_type
+University of Phoenix at Aurora,Kansas,Landscape Horticulture,400,2021-09-27,"[39.6594845, -104.8386216]",Group
+Pacific Oaks College -  Sonrise Christian School,Wyoming,Rehabilitation Services,500,2022-08-31,"[34.089036799999995, -117.865575]",Partner
+Triton College,Iowa,Architectural Engineering,800,2021-10-28,"[41.91503779999999, -87.83885889999998]",Partner
+Iowa Valley Community College District at Grinnell,Pennsylvania,History,700,2022-10-31,"[41.7442764, -92.7243723]",Partner
+Los Angeles Harbor College,Montana,Medical Technology,700,2022-08-29,"[33.7841, -118.28408909999999]",Group
+Fuller Theological Seminary (Orange County Regional Campus),Kentucky,Environmental Science,400,2022-11-29,"[33.688833100000004, -117.856273]",Partner
+Bristol Community College at Taunton High School,Georgia,Music,500,2022-10-29,"[41.9016176, -71.0713528]",Partner
+Southeastern University,Delaware,Botany/Plant Biology,100,2021-07-29,"[28.030130600000003, -81.9179961]",Group
+Maricopa Community Colleges - Mesa Community College at Downtown Center,New Jersey,American Sign Language,600,2021-07-30,"[33.4187009, -111.8277007]",Partner
+DePaul University - O'Hare Campus,North Carolina,Biology,200,2022-11-28,"[41.99642539999999, -87.8622302]",Partner
+Feather River College,Iowa,Geological Engineering ,500,2021-12-30,"[39.9530598, -120.97284350000001]",Group
+Ivy Tech Community College of Indiana at Porter County Career and Technical Center,Georgia,Chinese ,400,2021-08-30,"[41.477503000000006, -87.06016240000001]",Group
+Butler County Community College - Butler of McConnell,Florida,American History,600,2022-10-29,"[37.631151700000004, -97.25180040000001]",Group
+West Side Campus,California,Latin American Studies ,600,2021-08-30,"[41.390713399999996, -73.5026173]",Group
+Western Illinois University at Central Intermediate School,Oregon,Industrial Management ,100,2022-09-30,"[40.7071186, -89.42603299999998]",Group
+Colby Community College,Vermont,English Composition ,200,2022-11-28,"[39.377564500000005, -101.0528795]",Group
+Illinois State University at Braun Educational Center,Massachusetts,Human Resources Management ,400,2021-11-29,"[41.6185526, -87.76741589999997]",Partner
+Celebrity Stylist Beauty School,Missouri,Printmaking ,600,2021-09-28,"[32.5211889, -92.0855391]",Partner
+Harrington College of Design,New York,Health Administration,300,2021-08-28,"[41.8823135, -87.63431829999998]",Partner
+Ivy Tech Community College of Indiana at IPS Career & Technology Center,Pennsylvania,Islamic Studies ,300,2022-08-29,"[39.777591799999996, -86.13534840000001]",Partner
+"Nova Southeastern University - San Juan, PR campus",California,Astronomy,500,2021-09-27,"[18.390814300000002, -66.0340585]",Partner
+Western International University at Salt River Project - PAB,Missouri,American Studies,100,2021-07-31,"[33.4375719, -111.91054740000001]",Partner
+Hawaii Business College,California,Aquatic Biology,100,2022-07-28,"[21.310160999999997, -157.86296399999998]",Partner
+Core Institute,Washington,Aerospace Engineering,200,2021-08-30,"[30.446653499999996, -84.2838792]",Partner
+Winterset High School,Arizona,Surveying ,300,2022-08-28,"[41.3267294, -94.0234521]",Partner
+Indiana Wesleyan University at Goshen High School,Wisconsin,Urban Studies,400,2021-12-29,"[41.547147100000004, -85.8690933]",Group
+Benedictine University at Thornton Fractional Center for Academics and Technology,Washington,Artificial Intelligence and Robotics,100,2022-08-27,"[41.585556700000005, -87.5289988]",Group
+Southern Illinois University Edwardsville at Centralia (Centralia Junior High School),Arizona,Epidemiology,400,2022-11-27,"[38.5157651, -89.1296564]",Partner
+Milledgeville Campus,Massachusetts,Biomedical Science,100,2022-08-28,"[33.093672999999995, -83.27169930000001]",Partner
+University of Phoenix at Kearny Mesa Learning Center,Michigan,Textile Engineering ,600,2022-08-28,"[32.814465000000006, -117.118022]",Partner
+Johns Hopkins University - School of Nursing,Delaware,African Studies,600,2021-11-29,"[39.296837100000005, -76.59052259999999]",Partner
+Saint Vincent's College at SHU,New Jersey,Criminal Science,600,2022-09-29,"[41.2020458, -73.20141579999998]",Group
+University of Phoenix at Rancho Cordova Learning Center,Arizona,Museum Studies,400,2022-11-28,"[38.5931299, -121.28112229999999]",Partner
+Roosevelt University at Elgin Community Collge,Missouri,Agronomy and Crop Science,100,2022-07-28,"[42.017698100000004, -88.3228321]",Group
+Southern Illinois University Carbondale at Jacksonville Naval Air Station,Nebraska,Jazz Studies,600,2022-08-31,"[30.223403899999997, -81.68412009999999]",Group
+Kansas City Kansas Community College at Technical Education Center,Idaho,Architectural Engineering,700,2021-10-31,"[39.1310908, -94.7165172]",Partner
+Indiana Wesleyan University at Jasper Inn & Convention Ctr,District  of Columbia,Social Psychology ,600,2022-12-28,"[38.375102500000004, -86.9431626]",Group
+Lake Land College at Dwight Correctional Center,Maine,Welding Engineering ,700,2021-07-30,"[41.099033399999996, -88.47649589999997]",Group
+Shawnee Community College at Anna Extension Center,Florida,Latin American Studies ,600,2022-11-30,"[37.462846899999995, -89.2306074]",Group
+ITT Technical Institute - Jacksonville,Montana,Kinesiology,100,2021-09-28,"[30.248978700000002, -81.5813833]",Partner
+Ballard HS,Hawaii,Automotive Engineering,100,2022-07-27,"[38.2833461, -85.6261423]",Partner
+Pacific Oaks College -  Plaza Community Services (ELAC Cohort),Illinois,Fashion Design,600,2021-07-31,"[34.02031729999999, -118.1463524]",Partner
+Northern Illinois University at Oakton Community College,Vermont,Pharmacology ,500,2021-07-29,"[42.054790600000004, -87.8865115]",Group
+Southern Illinois University Carbondale at Barnes-Jewish Hospital,South Dakota,Culinary Arts,500,2021-11-29,"[38.635666, -90.2644122]",Group
+Frontier Academy High School,District  of Columbia,Biblical Studies,800,2021-12-30,"[40.4128325, -104.7876766]",Partner
+Capitol Technology University at Southern Maryland Higher Education Center,Pennsylvania,Political Science,600,2022-09-27,"[38.3128121, -76.54502769999998]",Group
+Concordia University Chicago at Steeple Run School,Arkansas,Petroleum Engineering ,200,2021-10-30,"[41.78265, -88.1050166]",Partner
+Empire Beauty School - Waterville,Texas,Clinical Psychology ,400,2021-07-28,"[44.5443809, -69.6663035]",Partner
+Cambridge College at Puerto Rico,Missouri,Biology,700,2021-10-28,"[18.4250788, -66.0582314]",Group
+University of Phoenix at Livermore Learning Center,Minnesota,Gerontology ,300,2021-10-28,"[37.7019627, -121.8097291]",Partner
+Children's Hospital,New Mexico,Music Education,400,2022-07-27,"[39.7422495, -104.8349311]",Group
+Red Bud Campus,Texas,Music History ,300,2021-10-29,"[38.207269700000005, -90.0006995]",Partner
+ASU at Mesa City Center,Alaska,Floriculture,500,2022-11-29,"[33.4152804, -111.82888030000001]",Group
+Aurora University at Berkeley School District 87,New Mexico,Interior Architecture ,200,2021-10-29,"[41.892323700000006, -87.9037122]",Group
+University of Illinois at Urbana-Champaign at Sangamon County Office,Kentucky,Advertising,500,2021-09-29,"[39.8193334, -89.64455600000001]",Group
+University of Phoenix at Hilton Hotel - Pasadena,Alabama,South Asian Studies,200,2021-09-29,"[34.1428322, -118.140666]",Partner
+Trinity Christian College - Daystar Campus,Arkansas,Human Development,800,2022-09-29,"[41.8604249, -87.62812209999998]",Partner
+Corbin Campus,Connecticut,Wildlife Management ,300,2022-08-28,"[36.94736210000001, -84.0609076]",Partner
+Paris Beauty College,Utah,Communications Studies/Speech Communication and Rhetoric,800,2022-10-31,"[37.9732196, -122.0436091]",Group
+SU - Art Inst of Charlotte,Kentucky,Data Processing,500,2021-10-29,"[35.181824799999994, -80.9275565]",Group
+Benedictine University at Naperville Fire Station 3,Montana,Peace Studies,500,2022-12-28,"[41.8022939, -88.14244409999998]",Partner
+GMC Augusta,Wisconsin,Public Health ,300,2021-07-28,"[33.5103697, -82.08547229999998]",Group
+Lake Land College at Western Illinois Correctional Center,Mississippi,Jewish Studies,300,2022-10-31,"[39.96261989999999, -90.7509645]",Group
+Olivet Nazarene University at Morrill Math & Science,Minnesota,Jewelry and Metalsmithing,400,2021-12-30,"[41.78402759999999, -87.68823270000001]",Group
+Northwest Kansas Technical College at North Central Kansas Technical College,Nebraska,Aerospace Engineering,800,2021-08-30,"[38.8803985, -99.2909463]",Partner
+Malcolm X College West Side Learning Center,Rhode Island,Ancient Studies ,200,2021-11-29,"[41.881231899999996, -87.74111909999998]",Group
+Chattahoochee Technical College,Kentucky,Wildlife Management ,200,2021-12-31,"[33.9292849, -84.553242]",Partner
+University of Central Arkansas at Southeast Arkansas College,Minnesota,Toxicology,300,2021-08-30,"[34.209861100000005, -92.02640059999999]",Partner
+Emerson College,Washington,Accounting,700,2021-07-28,"[42.35223920000001, -71.0657944]",Group
+Governors State University at Naperville Education Center,District  of Columbia,Rehabilitation Services,400,2022-12-28,"[41.7093471, -88.1901807]",Partner
+National Louis University at Addison Trail HS,Hawaii,Computer Systems Analysis ,500,2022-07-29,"[41.931314, -88.0213464]",Partner
+Anne Arundel Community College,Pennsylvania,Government,800,2021-07-29,"[39.0490696, -76.516773]",Partner
+E Q School of Hair Design,District  of Columbia,Ancient Studies ,200,2021-12-29,"[41.235456899999996, -95.8580529]",Group
+Pima Medical Institute - East Valley,Delaware,Organizational Behavior Studies,800,2021-11-28,"[33.376341700000005, -111.68950179999999]",Partner
+Arkansas College of Barbering & Hair Design,Nevada,Musical Theater,300,2021-08-28,"[34.67215330000001, -92.343337]",Partner
+Herrera School,Alaska,East European Studies,300,2022-07-27,"[33.435857899999995, -112.0586023]",Partner
+University of New Haven at Naugatuck Valley Community College,Arkansas,Child Care,600,2022-08-30,"[41.5493886, -73.0711355]",Group
+Greenville College at Lewis and Clark Community College - Godfrey,Wyoming,Accounting,800,2021-11-27,"[38.9518844, -90.1962632]",Group
+Moody-Aviation,Alaska,Welding Engineering ,800,2021-08-29,"[47.68203159999999, -117.3134192]",Group
+Harlem High School,Nebraska,East European Studies,400,2022-10-28,"[42.35737, -89.026274]",Group
+Luther Rice College and Seminary,Rhode Island,Mass Communication ,100,2021-08-29,"[33.698, -84.12310459999998]",Group
+Hagerstown Community College at Maryland Correctional Training Center,Iowa,Human Development,400,2021-10-28,"[39.5643927, -77.71444609999999]",Group
+Delgado Community College,Rhode Island,Anatomy,500,2021-12-28,"[29.984703399999997, -90.104671]",Group
+Stucky Middle School,Massachusetts,Biomedical Science,400,2022-09-30,"[37.7646476, -97.2876612]",Group
+Johns Hopkins University at Applied Physics Laboratory,Rhode Island,Epidemiology,700,2021-09-27,"[39.164049799999994, -76.89703979999999]",Partner
+"University of Arkansas, Fayetteville at Naval Support Activity Mid-South",Rhode Island,Museum Studies,600,2022-11-28,"[35.3349414, -89.8720347]",Partner
+University of Illinois at Chicago - College of Medicine at Peoria,Rhode Island,Animal Behavior and Ethology,200,2021-11-28,"[40.696934999999996, -89.5968077]",Group
+Washington Adventist University,Missouri,Military Science,100,2022-09-29,"[38.9868441, -77.0012376]",Group
+"George Washington University at Lockheed Martin Corporation, Colorado Springs",Massachusetts,Agricultural Technology Management,500,2022-08-31,"[38.9836068, -104.80150640000001]",Partner
+Holy Cross Hospital,Indiana,Church Music,200,2021-09-30,"[41.76903859999999, -87.6927027]",Group
+Upper Iowa University at Mesa,Idaho,Circulation Technology,400,2021-08-29,"[33.43375, -111.8392521]",Partner
+National Louis University at Booker Middle School,Iowa,Sustainable Resource Management ,100,2022-10-27,"[27.367865899999998, -82.524588]",Partner
+Benedictine University at Hillside Police Department,Maryland,Furniture Design,400,2021-07-31,"[41.8780078, -87.90742949999998]",Partner
+Fresno Pacific University - Hanford Satellite,Michigan,Peace Studies,700,2021-09-28,"[36.3329315, -119.690022]",Group
+Holiday Inn Express & Suites,Illinois,International Relations,100,2021-11-29,"[39.55087329999999, -85.7779975]",Partner
+The Field Museum,Oregon,Pre-Optometry,100,2021-09-28,"[41.8662937, -87.61676740000001]",Group
+Velvatex College of Beauty Culture,Alabama,Military Science,400,2021-10-28,"[34.7356947, -92.2897035]",Partner
+Pacific School of Religion,New Jersey,Museum Studies,700,2022-11-28,"[37.876146399999996, -122.26330619999999]",Group
+National Louis University at Greendale High School,Kansas,Statistics ,200,2022-09-28,"[42.933418100000004, -88.00000349999998]",Partner
+American International College at Arlington High School,Maine,Public Relations,200,2022-07-27,"[42.418485700000005, -71.1612832]",Group
+Indiana Institute of Technology at Greenwood Office,Alabama,Kinesiology,600,2021-08-31,"[39.615732799999996, -86.08777769999998]",Group
+"Indiana Wesleyan University at Hampton Inn, Michigan City",South Dakota,Finance,800,2022-10-28,"[41.6770248, -86.8932906]",Group
+University of Phoenix at Clackamas Campus,New Jersey,Scandinavian Studies,300,2022-08-28,"[45.4323677, -122.56787959999998]",Partner
+San Jose State University - IBM Santa Teresa Labs-Bailey Road,New Jersey,Portuguese ,500,2022-12-29,"[37.1965835, -121.7487543]",Group
+Concordia University Chicago at Cowherd Middle School,Colorado,Home Economics,300,2022-12-27,"[41.76378340000001, -88.2811875]",Partner
+National Louis University at Best Practice HS,Arkansas,Special Education ,300,2022-12-30,"[41.8790889, -87.67841709999998]",Partner
+Fort Hays State University at Victoria,Maryland,Materials Science ,600,2021-08-27,"[38.8579049, -99.1444694]",Partner
+National Louis University at Gray M. Sanborn,Kentucky,Occupational Therapy,600,2021-09-29,"[42.1119126, -88.03791340000001]",Group
+Stone Academy,Illinois,Biopsychology,700,2022-12-30,"[41.267523600000004, -72.97692070000001]",Partner
+University of Maryland - College Park at McDaniels College,Mississippi,Plant Pathology,400,2022-12-30,"[39.5817181, -77.00217629999999]",Partner
+Aims Community College at Colorado Early College - Fort Collins,Nevada,Interior Design,400,2022-12-31,"[40.5194396, -105.052545]",Group
+Strayer University Manassas Campus,Montana,Anatomy,700,2022-11-27,"[38.805068299999995, -77.5091798]",Partner
+Area 31 Career Center,Washington,Industrial Management ,700,2022-12-29,"[39.7827876, -86.29340690000001]",Partner
+Strayer University Arlington Campus,New Mexico,Nursing,100,2022-12-27,"[38.89100639999999, -77.08509219999998]",Group
+University of Baltimore,Alaska,Environmental/Environmental Health Engineering,600,2022-12-31,"[39.3059189, -76.61645039999998]",Partner
+National University -  Redding,Colorado,Pre-Seminary,200,2022-09-28,"[40.57598, -122.355097]",Partner
+Judson College,North Carolina,Slavic Languages and Literatures ,200,2022-12-29,"[32.6308332, -87.3169298]",Partner
+Alliant International University - Fresno,Washington,Atmospheric Science,800,2021-12-30,"[36.7667503, -119.72170020000002]",Partner
+Talladega College,Washington,Medical Technology,800,2022-10-28,"[33.4330063, -86.1136203]",Partner
+South Park Elementary School,Arkansas,Computer Graphics,500,2022-08-31,"[42.158907299999996, -87.86402890000001]",Group
+Southeastern Illinois College,Utah,Computer Systems Analysis ,100,2022-08-29,"[37.7515929, -88.43633729999998]",Partner
+McKendree University at Olney,Idaho,Aquatic Biology,400,2021-10-31,"[38.73431890000001, -88.0721355]",Partner
+Post University at Meriden Business Learning Center (MBLC),Arizona,Mathematics,500,2022-11-27,"[41.5102744, -72.810475]",Partner
+Kansas State University at U.S. Army Command General Staff College,California,International Business ,800,2021-09-28,"[39.3387605, -94.9203113]",Partner
+Indiana Wesleyan University at Lees Inn Greenfield,Iowa,Advertising,800,2021-08-28,"[39.81895, -85.77118999999998]",Group
+ITT Technical Institute - Kennesaw,California,Korean,200,2022-10-28,"[34.03283860000001, -84.6498979]",Partner
+Indiana Wesleyan University at Executive Inn,Oregon,Pre-Optometry,500,2022-08-31,"[38.693956299999996, -87.497334]",Partner
+Plymouth School Corporation,Mississippi,Caribbean Studies,200,2022-07-30,"[41.3461484, -86.3019755]",Group
+Bridgewater State University - Alden Elementary School,Oregon,Forestry ,700,2022-11-29,"[42.0461227, -70.68178359999999]",Partner
+Carrington College - Reno,Louisiana,Medical Technology,100,2022-09-27,"[39.463097, -119.78698]",Group
+Newman University at Barton County Community College,Indiana,Ceramics ,600,2022-11-28,"[38.4037674, -98.73314659999998]",Partner
+University of Illinois at Urbana-Champaign at Morton Arboretum,West Virginia,Sport and Leisure Studies ,400,2022-09-27,"[41.81903579999999, -88.0777622]",Partner
+Louisiana State University at Shreveport,New York,Health Administration,700,2021-12-30,"[32.42848239999999, -93.70346040000001]",Partner
+Franciscan Missionaries of Our Lady University,Oregon,Mathematics,400,2022-11-29,"[30.400129600000003, -91.1105056]",Group
+University of Phoenix - Kansas City Campus,Oregon,Operations Management ,700,2022-10-27,"[38.9392219, -94.5796121]",Partner
+University of Phoenix at Aviano,Indiana,Painting ,400,2022-09-28,"[46.0683593, 12.5789489]",Partner
+Apex Academy of Hair Design Inc,North Dakota,Tourism,600,2021-07-28,"[40.112012899999996, -85.68076719999998]",Group
+Litchfield  Elementary District,New Hampshire,Architectural Engineering,300,2022-09-27,"[33.4881776, -112.34914450000001]",Group
+"Northern Baptist Theological Seminary - Chicago, IL",Connecticut,Molecular Biology,200,2021-11-30,"[41.75791630000001, -87.5982079]",Group
+Indiana Wesleyan University at Lees Inn Merrillville,Kentucky,Mechanical Engineering,800,2022-12-30,"[41.5042227, -87.31722090000001]",Group
+Colorado Technical University at Sioux Falls,New Hampshire,Public Administration ,100,2021-10-29,"[43.4968999, -96.7736585]",Group
+National University -  San Jose,West Virginia,Peace Studies,600,2021-08-30,"[37.3174555, -121.9475415]",Partner
+Strayer University - Schaumburg Campus,South Dakota,Molecular Biology,500,2022-07-31,"[42.0491849, -88.0327061]",Group
+Saint Xavier University at Grayslake,Illinois,Neurobiology ,400,2021-10-28,"[42.3578093, -88.01054740000002]",Partner
+Albertus Magnus College at New Dimensions/Waterbury,Wyoming,Astrophysics,600,2021-09-27,"[41.557458399999994, -73.0431565]",Group
+Strayer University Arlington Campus,Nebraska,Public Relations,800,2022-09-28,"[38.89100639999999, -77.08509219999998]",Group
+Colorado State University at Thompson School District,District  of Columbia,Korean,300,2021-11-28,"[40.3838401, -105.09620430000001]",Partner
+National Louis University at Hedges Fine and Performing Arts School,Pennsylvania,Managerial Economics,100,2021-10-31,"[41.8072912, -87.67310049999998]",Partner
+Moody Bible Institute at Circle Community Church,Idaho,Management Information Systems,600,2022-10-27,"[28.632139799999997, -81.4084089]",Group
+National Louis University at Atlanta Campus,Wyoming,Experimental Psychology ,800,2022-07-31,"[33.874235799999994, -84.275571]",Partner
+Aurora University at George Williams College,Illinois,Education Administration,800,2022-10-27,"[42.5713685, -88.5536204]",Group
+Jefferson Technical College - Dawkins Road,Massachusetts,Early Childhood Education,500,2022-10-30,"[38.412011299999996, -85.4221687]",Partner
+Southern Illinois University Carbondale at Lewis and Clark College,South Carolina,Museum Studies,700,2021-07-30,"[38.8669946, -90.1402201]",Partner
+University of North Alabama,Ohio,Classics,200,2022-10-30,"[34.80746920000001, -87.68129379999998]",Partner
+Ivy Tech Community College of Indiana at Richard Fairbanks Center,Missouri,Musical Theater,200,2022-09-28,"[39.8617086, -86.0055397]",Group
+University of Phoenix at Clackamas Campus,Florida,Sound Engineering,300,2021-09-29,"[45.4323677, -122.56787959999998]",Group
+Ivy Tech Community College of Indiana at Portage University Center,District  of Columbia,Native American Studies,100,2021-08-30,"[41.576257700000006, -87.17333289999998]",Group
+Naval Postgraduate School,West Virginia,Nuclear Engineering,300,2022-10-30,"[36.5940851, -121.87289740000001]",Partner
+Crafton Hills College,Florida,Air Traffic Control,100,2022-08-27,"[34.03942260000001, -117.10502050000001]",Partner
+University of St. Francis at Indian Trail Middle School,New York,Home Economics,800,2021-12-28,"[41.6156658, -88.1966226]",Partner
+Berkshire Community College,Oregon,Criminology,800,2022-09-29,"[42.457745200000005, -73.3143387]",Partner
+New College of California,Vermont,Landscape Architecture ,800,2021-09-29,"[37.7605088, -122.4212203]",Group
+OCU - Evansville Center,Alaska,Kinesiology,500,2022-10-31,"[37.971623799999996, -87.571676]",Group
+Wilmington University - Middletown Site,Rhode Island,South Asian Studies,700,2021-07-30,"[39.4558061, -75.7174323]",Group
+Harrison College - Elkhart,Kansas,International Studies ,100,2022-07-29,"[41.6793184, -85.8871502]",Group
+University of Baltimore at College of Southern Maryland,North Dakota,Music Management,300,2021-07-28,"[38.529287700000005, -76.97525139999998]",Group
+Indiana Wesleyan University at Microtel Inn & Suites,Virginia,Pre-Seminary,800,2022-12-28,"[39.0038939, -84.6485255]",Group
+Moody Bible Institute Youngstown,Arizona,Business Education,500,2021-08-29,"[41.053905799999995, -80.65610190000001]",Partner
+Abraham Baldwin Agricultural College,Connecticut,Women's Studies,100,2022-07-31,"[31.481969399999997, -83.52825880000002]",Group
+Gove County Medical Center,Maryland,Spanish ,500,2022-12-29,"[39.0672851, -100.2407236]",Partner
+Olivet Nazarene University at West Cook Intermediate Service Center,Michigan,Environmental/Environmental Health Engineering,200,2022-10-30,"[41.885070899999995, -87.86970559999997]",Group
+Kirkwood Community College - Monticello Site,Texas,South Asian Studies,200,2022-07-28,"[42.209720000000004, -91.1848803]",Group
+Louisiana Technical College - Port Allen Extension Campus,Missouri,Environmental/Environmental Health Engineering,300,2021-09-27,"[30.460754100000003, -91.2516048]",Group
+Central Baptist Theological Seminary ? Carrollton,Illinois,Technical  Writing ,800,2022-12-28,"[32.951496500000005, -96.9214166]",Partner
+Atlantic Technical College,Illinois,Theology ,800,2021-12-30,"[26.2433663, -80.19238849999998]",Partner
+University of Maryland - University College at Bondsteel,Maryland,Jewish Studies,800,2021-09-28,"[38.91265, -76.847599]",Partner
+Tolland High School,North Carolina,Engineering Mechanics ,300,2022-07-31,"[41.8719641, -72.3396673]",Partner
+University of Phoenix at La Quinta Inn,Maine,Petroleum Engineering ,600,2022-10-30,"[33.6258865, -112.1151354]",Partner
+Johns Hopkins University at Greenbelt Elementary School,Missouri,Logistics Management,100,2022-11-30,"[39.0123409, -76.87741079999998]",Partner
+Brightwood College - San Diego,Mississippi,Pre-Dentistry,400,2021-12-28,"[32.8217179, -117.1330926]",Group
+Mackaben Elementary School,Massachusetts,Engineering Physics,100,2022-11-29,"[42.1583101, -88.3753747]",Group
+Newman University at Holy Family Parish Center,Nebraska,Pre-Veterinary Medicine,800,2022-11-28,"[34.6206716, -98.4940008]",Group
+Central Baptist Theological Seminary - Dallas area location (at Disciples Baptist Church),Alabama,Horticulture,300,2022-11-29,"[32.954670899999996, -96.9035043]",Partner
+Cornell College,Kansas,Chemical Engineering,600,2021-07-31,"[41.9245718, -91.4237652]",Group
+University of Phoenix - Memphis Campus,Florida,Music Management,500,2022-07-29,"[35.129537299999996, -89.79674909999999]",Group
+Eastern College of Health Vocations,District  of Columbia,Government,400,2021-12-31,"[34.7512646, -92.3420215]",Partner
+University of Phoenix - Columbus Georgia Campus,Ohio,Civil Engineering,500,2022-12-31,"[32.548718900000004, -84.9532229]",Partner
+Galen College of Nursing - Cincinnati,Montana,Theology ,200,2022-10-31,"[39.2837493, -84.3659808]",Group
+Grand Canyon University at Phoenix Baptist Hospital,Virginia,East European Studies,200,2022-10-27,"[33.525601, -112.10206550000001]",Partner
+Towson University at DuFief Elementary School,Tennessee,Bioethics,500,2021-08-27,"[39.1017001, -77.2377312]",Group
+Arizona State University at Supai Middle School,Idaho,Pharmacology ,500,2022-07-28,"[33.458701500000004, -111.93747830000001]",Group
+Garden City Community College,Delaware,Molecular Biology,600,2021-12-30,"[37.9706494, -100.84742270000001]",Group
+Electric League of Arizona,New York,Rehabilitation Services,100,2021-10-28,"[33.4776612, -112.07100890000001]",Partner
+Benedictine University at Aurora Police Department,Vermont,Animal Science,800,2021-08-29,"[41.7831701, -88.28697969999997]",Partner
+Ottawa University at Scottsdale Community College,Utah,Wildlife Management ,100,2022-10-30,"[33.5129962, -111.8828774]",Partner
+Imperial Valley Campus,Missouri,Information Technology,300,2021-08-30,"[32.672358, -115.49188740000001]",Partner
+San Jose State University - Cisco Systems,Michigan,Toxicology,500,2022-12-28,"[37.4083615, -121.95415449999999]",Partner
+Orange Technical College - Winter Park Campus,Kentucky,Forensic Science,400,2022-12-29,"[28.525588399999997, -81.15104609999999]",Partner
+US Steel/Gary Works,Idaho,Physical Education ,700,2021-08-27,"[41.5508989, -87.32115929999998]",Group
+University of Colorado Denver at Fort Lewis College - PSC,Georgia,Agricultural Technology Management,800,2022-07-30,"[37.27376470000001, -107.87104440000002]",Partner
+"Strayer University - Stafford, TX Campus",Wyoming,Finance,500,2022-08-29,"[29.6379619, -95.581731]",Group
+Augustus Shaw Elementary School,Kansas,European History,800,2022-10-29,"[33.4493478, -112.05322609999999]",Partner
+University of Maine at Farmington at South Paris Center of University College,Arkansas,Landscape Horticulture,200,2021-11-30,"[44.21342070000001, -70.5254104]",Group
+DeSoto Center,Alabama,Drawing,600,2022-09-30,"[27.223204100000004, -81.8558302]",Partner
+Frostburg State University,Massachusetts,Merchandising and Buying Operations,800,2021-07-29,"[39.649876500000005, -78.9345627]",Partner
+Cossatot Community College of the University of Arkansas,Georgia,Painting ,100,2022-12-31,"[34.0418821, -94.3646085]",Group
+Coral Springs Charter School,Oklahoma,Molecular Biology,700,2021-12-27,"[26.2708397, -80.24843879999999]",Group
+Decatur Memorial Hospital,Utah,Culinary Arts,800,2022-09-27,"[39.866851200000006, -88.9618217]",Group
+Winnebago Regional Office of Education,South Carolina,Clinical Psychology ,800,2021-10-30,"[42.31414829999999, -89.04622839999998]",Group
+Loyola University Maryland at Bishop McNamara High School,Connecticut,German ,400,2021-08-28,"[38.8523089, -76.8895567]",Group
+Olivet Nazarene University at OakBrook International Office Center,West Virginia,Communications Studies/Speech Communication and Rhetoric,600,2021-11-30,"[41.8422737, -87.9875215]",Group
+Searcy Beauty College Inc,North Dakota,Islamic Studies ,200,2021-11-30,"[35.239117900000004, -91.7350997]",Group
+Empire College,Maine,Chinese ,600,2021-11-30,"[38.4680351, -122.72932800000001]",Partner
+Upper Keys Center,Ohio,Architecture,300,2021-12-29,"[24.943391199999997, -80.60577719999998]",Group
+Everest College - Reseda,Oregon,Managerial Economics,300,2021-07-29,"[34.2008031, -118.52680339999999]",Partner
+Upper Iowa University at Wausau: NTC - Antigo,Illinois,Genetics ,400,2022-09-30,"[45.12843669999999, -89.1361956]",Partner
+Aurora University at DeKalb School District #428-DeKalb High School,Nebraska,Rural Sociology,300,2022-11-27,"[41.9115234, -88.75466109999998]",Group
+Governors State University at Kankakee Education Center,Minnesota,Equine Studies,400,2022-11-30,"[41.119275200000004, -87.8646043]",Group
+Indiana University Kokomo,Arizona,Southeast Asia Studies ,700,2022-08-30,"[40.45942539999999, -86.13164609999998]",Partner
+Salisbury University at University System of Maryland in Hagerstown,Oklahoma,Business Communications,300,2022-08-28,"[39.642645, -77.721057]",Group
+Eastern Illinois University at American Indian Association of Illinois,Vermont,Agricultural Technology Management,600,2022-11-28,"[42.0010612, -87.6951108]",Partner
+Methodist College,Vermont,Artificial Intelligence and Robotics,300,2022-07-30,"[40.7801836, -89.6829431]",Group
+Hair Fashions By Kaye Beauty College,Maine,Art History,500,2021-09-27,"[39.906878999999996, -86.05899699999998]",Partner
+Olivet Nazarene University at Emily G. Johns Elementary School,Missouri,Construction Management,100,2021-09-28,"[41.6579287, -88.5019015]",Partner
+Lake Forest Graduate School of Management at Lake Forest Hospital Acute Care Center,Idaho,Pre-Veterinary Medicine,700,2022-11-29,"[42.33739, -88.0122296]",Group
+Illinois State University at Lincoln Magnet School,California,Chemistry,800,2021-09-28,"[39.7987379, -89.64009519999998]",Group
+Velvatex College of Beauty Culture,Rhode Island,Art Therapy,100,2021-09-28,"[34.7356947, -92.2897035]",Group
+Chicago Theological Seminary,North Carolina,Caribbean Studies,800,2022-10-27,"[41.7856873, -87.5910437]",Group
+Bowie State University at USM Shady Grove Center,Nevada,Art History,300,2022-09-29,"[39.0947683, -77.20098829999998]",Group
+University of Maine at Augusta at Sumner Memorial High School,Kansas,Visual Communication,800,2022-10-31,"[44.5263461, -68.21537729999999]",Group
+Adams State University MCC Outreach Center Yuma,South Carolina,Information Technology,600,2022-12-28,"[40.1235849, -102.72345490000001]",Group
+College of Southern Maryland - Waldorf Center,Utah,Bioethics,800,2021-11-28,"[38.6225331, -76.91150090000001]",Group
+Olivet Nazarene University at Schubert Elementary,Maryland,Naval Architecture,600,2022-10-31,"[41.930049200000006, -87.76072679999999]",Partner
+Key West Education Center,Kansas,Women's Studies,100,2021-08-30,"[24.577080300000002, -81.7000637]",Partner
+Center for Employment Training - Durham,Kentucky,Nutrition,400,2022-08-27,"[35.924819, -78.8440153]",Partner
+Community College of Denver at Lowry,California,Athletic Training,400,2021-12-27,"[39.7308712, -104.8828156]",Partner
+Vincennes University at Fort Benning,Kentucky,Anthropology,800,2022-12-31,"[32.3641605, -84.95960490000002]",Partner
+Barton County Community College at Ellsworth Correctional Facility,Arkansas,Sports Management,500,2022-08-27,"[38.7408109, -98.2335601]",Group
+Colorado State University at St. Vrain Valley School District,Delaware,Public Health ,800,2021-11-29,"[40.1554221, -105.1071666]",Partner
+Covenant Medical Center- Waterloo,North Dakota,Urban Planning,100,2022-08-29,"[42.4614809, -92.3460257]",Group
+"Central Baptist Theological Seminary - Nashville, TN location (at Scarritt-Bennett Center of the United Methodist Church)",Louisiana,Web Design,500,2021-08-30,"[36.144912299999994, -86.7970421]",Partner
+Yates Center Senior High School,Delaware,Marine Science,100,2021-08-28,"[37.8867369, -95.7329851]",Partner
+Alaska Career College,Montana,Clinical Psychology ,700,2022-07-28,"[61.18136479999999, -149.8570744]",Group
+Dixon School District,Nevada,Organizational Behavior Studies,800,2021-09-28,"[41.8389765, -89.45933509999998]",Group
+Suncoast Technical College,Indiana,"Hispanic-American, Puerto Rican, and Chicano Studies",800,2022-07-30,"[27.3598951, -82.5343958]",Partner
+Saint Joseph's College of Maine,Rhode Island,Art Therapy,100,2021-11-28,"[43.8270272, -70.484296]",Partner
+Pasadena City College,Alabama,Experimental Pathology,400,2022-12-31,"[34.1440134, -118.1191895]",Group
+Savannah College of Art and Design,Mississippi,Welding Engineering ,100,2021-11-30,"[32.06808710000001, -81.09457330000001]",Partner
+Southern Illinois University Carbondale at Mount San Antonio College,Alaska,Historic Preservation ,600,2021-08-31,"[34.0482035, -117.845125]",Group
+"Lake Technical College, Institute of Public Safety",North Dakota,Mental Health Services ,300,2022-11-27,"[28.7710772, -81.7443885]",Partner
+University of Northern Colorado at Fort Morgan Community College,New Jersey,Surveying ,500,2022-09-27,"[40.2589405, -103.7720041]",Partner
+Benedictine University at Parent Resource Center - Chicago Public Schools,California,Music Education,800,2021-10-27,"[41.830788, -87.6134694]",Partner
+Olivet Nazarene University at Oswego High School,Delaware,Kinesiology,600,2022-07-31,"[41.6827008, -88.34065199999998]",Partner
+Olivet Nazarene University at Jesus Name Apostolic Church,Kentucky,Gay and Lesbian Studies,600,2022-07-31,"[42.3563901, -87.8320651]",Group
+University of Phoenix at Escorial Learning Center,Iowa,Marine Science,500,2022-09-27,"[18.3954431, -65.9913667]",Partner
+Southern Illinois University Carbondale at San Diego,Kansas,Construction Management,500,2022-10-28,"[32.684121399999995, -117.114349]",Partner
+Gateway Seminary (Pacific Northwest Campus),Oregon,Sound Engineering,100,2022-11-27,"[45.6454276, -122.5625853]",Partner
+Morgan Community College at Wray High School,District  of Columbia,Sport and Leisure Studies ,500,2021-12-29,"[40.0753268, -102.2509168]",Partner
+Concordia University Chicago at Crystal Lake Central High School,Maryland,Turfgrass Science,300,2021-09-29,"[42.2371205, -88.3225643]",Group
+MidAmerica Nazarene University at North Kansas City Hospital,Virginia,Scandinavian Studies,100,2022-12-28,"[39.1495404, -94.551452]",Partner
+University of New Haven at Lincoln Middle School,Maine,Entrepreneurship ,500,2022-10-29,"[41.537161499999996, -72.8242963]",Group
+MTI College,Kansas,Rural Sociology,200,2022-07-27,"[38.6613956, -121.3424893]",Partner
+Olivet Nazarene University at RML Specialty Hospital,New Mexico,Special Education ,400,2021-11-30,"[41.87499580000001, -87.71225849999998]",Partner
+Baxter Springs High School,New Jersey,Education,400,2021-11-27,"[37.0377232, -94.73357359999999]",Group
+Ivy Tech Community College of Indiana at Adams Central High School,Idaho,Nursing,700,2021-08-31,"[40.7461276, -84.9424082]",Partner
+Muscatatuck Urban Training Center (MUTC),Kansas,Women's Studies,200,2021-10-30,"[39.049481400000005, -85.52869310000001]",Partner
+Saint Xavier University at Lake Geneva 35,Vermont,Landscape Architecture ,100,2022-08-27,"[42.594635600000004, -88.438041]",Partner
+American University Tenley Campus,Iowa,Ethnic Studies,200,2021-10-29,"[38.9452951, -77.0803772]",Group
+Strayer University - Metairie Campus,Louisiana,Art Therapy,500,2022-08-28,"[30.0009697, -90.1240696]",Group
+Hagerstown Community College at Maryland Correctional Training Center,West Virginia,African Studies,200,2022-07-28,"[39.5643927, -77.71444609999999]",Partner
+University of Phoenix at Westec II (Nursing Simulation Lab),Florida,Nutrition,200,2021-11-28,"[33.4135132, -111.97935670000001]",Partner
+Scripps College,Colorado,Nuclear Engineering,400,2021-09-30,"[34.103370399999996, -117.71134340000002]",Group
+Hair Professionals School of Cosmetology,Ohio,English,200,2022-10-27,"[41.682578, -88.364795]",Group
+Mindfire Academy,Maine,Aviation ,100,2021-07-29,"[37.662833500000005, -97.2893133]",Partner
+Strayer University Anne Arundel Campus,Idaho,Theology ,100,2022-12-29,"[39.073226, -76.634367]",Partner
+Fresno Pacific Biblical Seminary,Connecticut,Environmental Design/Architecture,600,2022-10-31,"[36.725441700000005, -119.73405279999999]",Partner
+Pacific Lutheran Theological Seminary of California Lutheran University,Virginia,Information Technology,600,2021-08-29,"[37.8697148, -122.2702183]",Group
+Southeast Arkansas College,New Jersey,Managerial Economics,400,2022-12-29,"[34.209861100000005, -92.02640059999999]",Partner
+Alexander City Campus,Virginia,Atmospheric Science,700,2021-12-31,"[32.925393, -85.945145]",Partner
+"Indiana Wesleyan University at Holiday Inn Express, Portage",Florida,Engineering Physics,300,2021-12-30,"[41.583374299999996, -87.1822488]",Partner
+Merced College,Massachusetts,Athletic Training,300,2022-07-29,"[37.333682399999994, -120.4730031]",Partner
+University of Maine at Augusta at Rangeley Lakes Regional School,West Virginia,International Agriculture,300,2022-07-31,"[44.9973974, -70.6516012]",Partner
+Jones Lang LaSalle (JLL),Oklahoma,Social Psychology ,300,2021-11-27,"[41.8849199, -87.6213882]",Partner
+Moraine Valley Community College District,Alabama,Photography,700,2022-11-30,"[41.6954495, -87.83480879999998]",Partner
+North-West College,North Carolina,Food Science,800,2021-11-28,"[34.189507, -118.45016580000001]",Partner
+NewSchool of Architecture and Design,Georgia,Government,500,2022-12-27,"[32.7133097, -117.15343999999999]",Partner
+Mercer University - Piedmont Healthcare Systems,Alabama,Epidemiology,800,2021-07-28,"[33.808828600000005, -84.39441819999998]",Partner
+Northern Illinois University at New Trier High School,California,Landscape Architecture ,100,2022-07-28,"[42.09486679999999, -87.76674320000001]",Partner
+Grand Canyon University at Scottsdale Healthcare - Shea,Washington,Range Science and Management,400,2022-10-30,"[33.5801319, -111.8847121]",Group
+University of Northern Colorado at Colorado Spring Center at Oracle,Connecticut,Education of the Deaf ,300,2022-09-29,"[39.0105933, -104.8191054]",Group
+West Michigan College of Barbering and Beauty,South Carolina,Materials Science ,100,2021-10-29,"[42.2592771, -85.5902705]",Partner
+Strayer University South Charlotte Campus,Arizona,Technology Education,200,2022-12-30,"[35.13879319999999, -80.93036440000002]",Partner
+Emily Griffith Technical College,Mississippi,Nursing,700,2022-12-28,"[39.8119848, -104.9868044]",Group
+ITT Technical Institute - Oklahoma City,Kansas,Crafts,100,2021-10-30,"[35.5220782, -97.54587420000001]",Partner
+Roosevelt University - Albert A. Robin Campus,California,Materials Science ,200,2022-07-27,"[42.0539031, -88.0386012]",Group
+Benedictine College at Missouri Regional Police Academy,Michigan,Business Education,700,2022-08-27,"[39.216569899999996, -94.4989484]",Partner
+University of Phoenix at Holiday Inn Express - El Centro,South Carolina,Archeology ,800,2022-12-27,"[32.775701500000004, -115.55002069999999]",Partner
+J.F. Drake State Community and Technical College,Indiana,Marine Biology,500,2022-11-29,"[34.77184039999999, -86.57302410000001]",Group
+National University -  Footprints Behavioral Health Corporation COFF-031,Idaho,Astronomy,100,2021-12-29,"[33.6800425, -117.85517709999999]",Group
+Ivy Tech Community College of Indiana at Warsaw Area Career Center,Virginia,Feed Science,800,2021-08-30,"[41.22546029999999, -85.86229689999998]",Partner
+ITT Technical Institute - Eden Prairie,Vermont,Massage Therapy,500,2021-12-30,"[44.8606158, -93.40322059999998]",Partner
+Eastern Illinois University at PACE Bus Co.,Alabama,Data Processing,300,2022-10-27,"[42.0478464, -87.98775490000001]",Partner
+University of Phoenix at American Legion Post 555,Mississippi,Planetary Science,400,2022-10-28,"[33.7505993, -117.9890098]",Group
+Bee-Jay's Hairstyling Academy,Virginia,Architectural Engineering,300,2021-12-28,"[34.7708398, -92.40608]",Group
+South Orlando Regional Campus,Rhode Island,Mental Health Services ,400,2022-07-27,"[28.4622811, -81.4049311]",Group
+University of Phoenix at Wichita Learning Center,Alaska,Aviation ,100,2022-12-28,"[37.7298943, -97.4655209]",Partner
+Indiana Wesleyan University at Columbus Education Center,Kansas,Pharmacology ,700,2021-10-28,"[39.206287100000004, -85.9217302]",Partner
+Forest Lake Academy,Nebraska,Agriculture,700,2022-12-31,"[28.6700781, -81.43686869999998]",Group
+National Louis University at Nathan Hale School,Mississippi,Industrial Psychology ,800,2021-09-28,"[41.7799456, -87.7772557]",Partner
+Indiana Institute of Technology at Columbus Visitor's Center,Georgia,Art ,200,2022-09-27,"[39.2038365, -85.919474]",Partner
+Fresno Pacific University - North Fresno Center,Missouri,Ocean Engineering ,300,2022-11-29,"[36.8570348, -119.78666340000001]",Partner
+Rockford Health System,Minnesota,Korean,200,2021-11-30,"[42.2977902, -89.09914069999998]",Partner
+University of St. Francis at Erlanger Medical Center,Louisiana,Korean,600,2021-07-30,"[35.048200099999995, -85.2907565]",Partner
+CSU East Bay -  Alameda County Office of Education,Maryland,Criminology,200,2022-10-29,"[37.658510299999996, -122.0983459]",Group
+Cambridge Junior College - Woodland,Hawaii,Jewelry and Metalsmithing,400,2021-07-27,"[38.677741299999994, -121.77461699999999]",Partner
+George Washington University at McLean Hilton,Tennessee,Teaching English as a Second Language,100,2021-08-29,"[38.9264629, -77.21599520000001]",Group
+Indiana Wesleyan University at Greencastle High School,North Dakota,Animal Behavior and Ethology,100,2021-08-27,"[39.6433429, -86.84375920000001]",Partner
+Valencia College,Michigan,"African Languages, Literatures, and Linguistics",400,2021-08-29,"[28.5207946, -81.4713668]",Partner
+"George Washington University at Lockheed Martin Corporation, Colorado Springs",Maryland,Cognitive Psychology,100,2022-11-28,"[38.9836068, -104.80150640000001]",Partner
+Carrington College Branch Campus Pamona,South Carolina,Game Design,600,2022-10-27,"[34.0628206, -117.8039405]",Partner
+Northland Pioneer College at Eagar Heavy Equipment Operations,Wisconsin,Physics,100,2021-12-29,"[34.109259, -109.249321]",Partner
+Benedictine University at Lincolnway North High School,Rhode Island,Mental Health Services ,600,2022-12-30,"[41.5264373, -87.79477740000002]",Partner
+Thunderbird School of Global Management - Miami Campus,North Dakota,Anthropology,600,2022-11-29,"[25.807533399999997, -80.32878149999998]",Group
+Corpus Christi Education Center-NAS Corpus Christi,Iowa,Industrial Engineering ,300,2021-12-29,"[27.685631199999996, -97.2464071]",Group
+Loyola University Maryland at Montessori Education Center of Arizona,Arizona,Economics,400,2021-09-29,"[33.5380142, -112.07168429999999]",Partner
+Fort Hays State University at Cloud County Community College,Nebraska,Painting ,400,2021-11-28,"[39.553964799999996, -97.66634599999999]",Group
+Roaring Fork High School,Maine,Child Development,300,2021-08-28,"[39.387999799999996, -107.2040301]",Partner
+WTI Topeka Campus,California,Rural Sociology,200,2022-08-29,"[38.999818, -95.7042663]",Partner
+Aurora University at Wheaton-Warrenville South High School,Missouri,Public Health ,400,2022-08-31,"[41.834870200000005, -88.1461204]",Partner
+Ivy Tech Community College of Indiana at Henry County Campus,Arkansas,Modern Greek ,800,2021-07-30,"[39.8846757, -85.38683929999998]",Partner
+University of Phoenix at International Palms Resort and Conference Center,Texas,Pre-Medicine ,500,2021-09-29,"[28.458859499999996, -81.4705517]",Partner
+Arkansas State University-Beebe Little Rock Air Force Base,California,Architectural History,300,2022-08-30,"[34.887953, -92.1117892]",Group
+Alfred - Southern Maine Reentry Center,Oregon,Home Economics,100,2021-09-30,"[43.4541684, -70.718277]",Partner
+Lincoln Technical Institute - New Britain,Wisconsin,Jewish Studies,400,2022-10-28,"[41.6592598, -72.7544838]",Group
+Keiser University - Melbourne,Georgia,Teaching English as a Second Language,600,2021-12-30,"[28.0947349, -80.6231521]",Group
+Ivy Tech Community College of Indiana at C4 Columbus Area Career Connection,New Mexico,Pharmacy ,300,2022-10-28,"[39.2110223, -85.9046965]",Partner
+Hopkinsville Campus,New Mexico,Classics,300,2021-07-27,"[36.80512, -87.47409449999998]",Group
+University of Maryland - Baltimore,New Mexico,Physics,400,2021-11-29,"[39.292289700000005, -76.6256144]",Group
+University of Phoenix at Allstate Inc.,Connecticut,English Literature,200,2021-07-29,"[41.25430120000001, -81.48880290000001]",Group
+Jasper County Community School District,Kansas,Organizational Behavior Studies,400,2022-08-31,"[38.9839219, -88.1640901]",Group
+Benedictine University at Carol Stream Fire Protection District Station 1,Wisconsin,Asian-American Studies ,200,2021-12-29,"[41.911213700000005, -88.1392802]",Group
+Oakland City University at Wabash Valley Correctional Facility,Maryland,Agricultural Economics,200,2022-07-29,"[38.9553738, -87.4073446]",Partner
+Maricopa Community Colleges - Gateway Community College at Arizona Field Ironworkers,Utah,American History,600,2021-07-29,"[33.4140983, -112.0582828]",Partner
+Arizona State University at Mirage School (Deer Valley School District),Indiana,Logistics Management,200,2022-07-27,"[33.6485573, -112.1446632]",Group
+Eastern Illinois University at Tri-County Special Ed District,Idaho,Genetics ,600,2022-08-31,"[37.7486357, -89.09571020000001]",Partner
+National Louis University at Flinn Middle School,West Virginia,Land Use Planning and Management,100,2022-12-29,"[42.239858500000004, -89.04794489999998]",Partner
+Arkansas State University Technical,Wisconsin,Ceramics ,700,2021-07-28,"[44.4903519, -92.31159]",Group
+Roberto-Venn School of Luthiery,Minnesota,Music Therapy,100,2022-12-28,"[33.4548895, -112.0862477]",Group
+Keiser University - Lakeland,Kansas,Electrical Engineering ,500,2022-08-28,"[27.254967100000002, -80.41995969999998]",Partner
+Garden City Community College at Bryan Education Center,New York,Islamic Studies ,700,2021-08-28,"[38.482913, -100.906678]",Partner
+University of Northern Colorado at Denver Center at Lowry,Montana,Health Administration,300,2022-12-27,"[39.7295485, -104.883591]",Partner
+"Buena Vista University at Central High School, Davenport",Illinois,Human Development,500,2021-08-29,"[41.530885299999994, -90.57581850000001]",Partner
+Upper Iowa University at Blackhawk Center,South Carolina,Kinesiology,600,2022-07-27,"[42.6367982, -89.0118725]",Group
+Indiana Wesleyan University at Jasper High School,Vermont,Petroleum Engineering ,200,2022-08-28,"[38.40240319999999, -86.9502047]",Partner
+Carrington College - Tri City Inc.,West Virginia,Artificial Intelligence and Robotics,800,2021-12-29,"[33.3924995, -111.85326380000001]",Group
+California State University - Fullerton,Idaho,Forestry ,400,2021-10-29,"[33.8822013, -117.88938370000001]",Partner
+National Louis University at Lincoln Junior High School,New Mexico,Music Management,200,2022-09-30,"[41.747015399999995, -88.1381365]",Group
+Florida Atlantic University,Florida,African Studies,700,2021-12-27,"[26.3693119, -80.10584770000001]",Partner
+Eastern Nazarene College at Lexington Christian Academy,Illinois,Physical Education ,600,2022-09-29,"[42.4352744, -71.1930071]",Partner
+University of Dubuque,New Mexico,Nutrition,100,2022-07-27,"[42.4972561, -90.6926145]",Partner
+Aspen Valley Ranch,Rhode Island,Sculpture ,500,2022-09-27,"[38.9761088, -105.0587702]",Group
+Governors State University at George T. Wilkins School,Washington,Biblical Studies,300,2021-09-27,"[41.7447554, -87.82273649999998]",Partner
+University of Alaska Southeast,Colorado,Public Relations,100,2022-10-27,"[58.384389799999994, -134.639532]",Partner
+Center for Employment Training - Sacramento,Kansas,Architecture,400,2022-08-29,"[38.5242204, -121.3930533]",Group
+Troy University - Dothan,Colorado,Graphic Design,200,2021-10-30,"[31.2843925, -85.47033850000003]",Group
+Spoon River College - Havana Campus,Kentucky,Plant Pathology,700,2022-11-29,"[40.2965233, -90.05676]",Partner
+Notre Dame of Maryland University at Franklin Square Hospital Center,Idaho,Tourism,600,2021-10-28,"[39.351097499999995, -76.4778621]",Partner
+Pacifica Graduate Institute,District  of Columbia,Experimental Pathology,100,2022-11-27,"[34.4219474, -119.5805358]",Partner
+Friends University at Labette Community College,South Dakota,American History,600,2022-11-29,"[37.3390987, -95.2553038]",Group
+Ivy Tech Community College of Indiana at Area 30 Career Center,Arkansas,Biblical Studies,400,2021-08-27,"[39.64713800000001, -86.816153]",Group
+West City Center - Pt. Loma Campus,District  of Columbia,Planetary Science,700,2022-09-28,"[32.7501912, -117.2151564]",Group
+Goshen High School,Delaware,Cinematography and Film/Video Production,300,2021-09-29,"[41.5804716, -85.8233391]",Group
+Lighthouse Ministries,Hawaii,Astrophysics,500,2021-11-28,"[40.7928248, -81.3533262]",Partner
+Pro Way Hair School,Alaska,Educational Psychology ,800,2022-07-31,"[33.8017565, -84.2051932]",Partner
+Concordia University Chicago at St. Mary Immaculate School,Louisiana,Agricultural Economics,600,2021-11-29,"[41.5975796, -88.1993944]",Group
+University of Phoenix at St. George Learning Center,Texas,Criminal Science,500,2022-08-31,"[37.096710200000004, -113.5627129]",Group
+University of New Haven at Hilton Garden Inn,Vermont,Industrial Management ,800,2022-11-29,"[41.27672570000001, -73.11995689999998]",Partner
+Resurrection University at Malcolm X College,Idaho,Native American Studies,300,2021-08-28,"[41.876586700000004, -87.6646023]",Partner
+"Southern Baptist Theological Seminary - Nashville, TN location (Forest Hills Baptist Church)",Nebraska,Youth Ministries,300,2021-07-31,"[36.046789600000004, -86.86437729999999]",Group
+Interdenominational Theological Center,Kentucky,Agricultural Mechanization,800,2021-10-31,"[33.7535451, -84.40971590000002]",Partner
+Anne Arundel Community College at the Center for Cyber and Professional Training,Alaska,Mechanical Engineering,400,2022-09-29,"[39.153985, -76.7198118]",Group
+Greenville College at Parkland Community College,Tennessee,Sociology,200,2022-12-29,"[40.1327671, -88.29075979999998]",Group
+San Jose State University - Cisco Systems,Florida,Elementary Education ,600,2022-11-30,"[37.4083615, -121.95415449999999]",Group
+Governors State University at El Valor,Virginia,Astrophysics,500,2021-10-31,"[41.8556436, -87.67544570000001]",Partner
+Northern Illinois University at Wilbur Wright College,Missouri,Photojournalism,100,2021-07-27,"[41.911620500000005, -87.69667]",Group
+Bay Path University,Minnesota,Data Processing,500,2021-08-30,"[42.055561499999996, -72.5838321]",Group
+Eastern Illinois University at Lake Land College Kluthe Center,Hawaii,Animal Behavior and Ethology,100,2022-11-28,"[39.1433528, -88.52733599999998]",Partner
+Ivy Tech Community College of Indiana at Greensburg Community High School,Oregon,Jewelry and Metalsmithing,800,2021-12-27,"[39.3428778, -85.4679725]",Group
+Drake University,Massachusetts,Web Design,400,2022-08-30,"[41.60227709999999, -93.65208790000001]",Group
+Delaware Technical Community College,Utah,Chemistry,500,2022-11-27,"[39.198030200000005, -75.56274609999998]",Partner
+Kentucky School of Craft,New Jersey,Cinematography and Film/Video Production,300,2022-12-28,"[37.3343464, -82.975197]",Partner
+American Graduate University,Oregon,American Literature,800,2022-12-27,"[34.0935112, -117.86955449999999]",Partner
+Kentucky Christian University,Oregon,Anthropology,300,2021-07-31,"[38.3391318, -82.946694]",Partner
+Northeastern Illinois University at Jacob H. Carruthers Center,Mississippi,Diagnostic Medical Sonography,700,2021-11-27,"[41.8231382, -87.60933690000002]",Group
+University of Phoenix - St. John's Hospital,Nebraska,American History,800,2022-11-29,"[34.21630220000001, -119.15581019999999]",Group
+Gordon State College,Iowa,Agricultural/Biological Engineering and Bioengineering,800,2021-10-29,"[33.048196399999995, -84.15377740000001]",Group
+San Jose State University - IBM Santa Teresa Labs-Bailey Road,Wyoming,Molecular Biology,300,2021-10-27,"[37.1965835, -121.7487543]",Partner
+Lake Forest Graduate School of Management - Chicago Campus,Kansas,Construction Management,100,2021-11-29,"[41.8824688, -87.6291652]",Group
+North Fork Elementary School,Rhode Island,Sculpture ,300,2021-11-28,"[26.1236061, -80.16194790000002]",Group
+Keiser University - Jacksonville,Arkansas,Japanese ,600,2022-11-27,"[30.259029700000003, -81.6027354]",Group
+American Jewish University,Missouri,Teaching English as a Second Language,600,2021-08-30,"[34.126388399999996, -118.47252749999998]",Partner
+Lawrence Township,New York,Industrial Engineering ,800,2022-08-27,"[39.8773821, -85.9715178]",Partner
+Northern Kentucky University,Indiana,Public Policy Analysis ,800,2021-08-30,"[39.0334704, -84.45926850000001]",Group
+Rockford University,Mississippi,Anthropology,300,2022-08-31,"[42.269123, -89.021474]",Partner
+Benedictine University at St Francis HS,Massachusetts,Metallurgical Engineering ,100,2021-09-30,"[41.8556346, -88.1407287]",Partner
+North Lauderdale,New Mexico,Dental Hygiene,100,2021-11-29,"[26.217081699999998, -80.22047719999998]",Partner
+San Jose State University - Cisco Systems,Wisconsin,Nursing,700,2022-09-29,"[37.4083615, -121.95415449999999]",Group
+Olivet Nazarene University at Madison School,Oregon,Real Estate ,400,2021-07-29,"[41.6108622, -87.6054463]",Partner
+Northern Suburban Special Education District,Wyoming,Criminal Science,700,2021-07-30,"[42.166511, -87.82112389999998]",Group
+"ELS Language Centers ? Richmond, Kentucky",Tennessee,Furniture Design,600,2021-10-29,"[37.738265500000004, -84.29835390000001]",Partner
+University of Phoenix at Fort Carson,Georgia,Sports Management,600,2021-10-30,"[38.74824419999999, -104.79534190000001]",Group
+Red Rocks Community College,Missouri,Geography,500,2022-10-31,"[39.7252202, -105.18565819999999]",Group
+ITT Technical Institute - West Chester,Florida,Feed Science,400,2022-07-29,"[39.162211, -84.4498383]",Group
+Saint Xavier University Huntley,Utah,Latin American Studies ,100,2022-07-30,"[42.164210499999996, -88.4680915]",Group
+Elmhurst College at Good Samaritan Hospital,Louisiana,Pastoral Studies,100,2021-08-27,"[41.8181667, -88.0082236]",Partner
+University of Phoenix at Community Hospital of San Bernardino,Hawaii,Computer Graphics,200,2022-10-28,"[34.1312113, -117.321673]",Partner
+National Louis University at Vernon Hills HS,Arkansas,Jewelry and Metalsmithing,100,2022-10-30,"[42.226754, -87.94895029999998]",Group
+Arizona State University at Whiteriver Elementary School,Washington,Mortuary Science ,500,2021-12-27,"[33.842613, -109.96260600000001]",Partner
+Olivet Nazarene University at Westlake Hospital,Utah,Air Traffic Control,200,2021-12-29,"[41.8929096, -87.848568]",Partner
+Joliet Junior College - North Campus,Nebraska,Clinical Psychology ,400,2022-08-31,"[41.637639899999996, -88.11610259999998]",Partner
+University of Maryland - Eastern Shore at ESAC Higher Education Center,South Carolina,Atmospheric Science,700,2022-12-27,"[38.9413227, -76.0811296]",Group
+Strayer University - Virginia Beach Campus,Oklahoma,Sport and Leisure Studies ,300,2021-12-31,"[36.8430891, -76.1343509]",Partner
+Indiana Wesleyan University at MasterBrand Cabinets,Montana,Radio and Television,600,2022-12-28,"[38.397713399999994, -86.9205131]",Group
+Grand Canyon University at Banner Desert Medical Center,Alabama,Chiropractic,200,2021-12-30,"[33.38908789999999, -111.87463629999999]",Group
+Aurora University at Central Intermediate School,California,Industrial Psychology ,300,2022-10-28,"[41.321764200000004, -88.82934739999997]",Partner
+Stenotype Institute of Jacksonville Inc - Orlando,Oregon,Middle Eastern Studies,500,2022-07-27,"[28.4720799, -81.400251]",Group
+Indiana Wesleyan University at Country Inn & Suites,Alabama,Industrial Psychology ,400,2022-10-31,"[38.223015999999994, -85.54198840000001]",Group
+Dixon-Hendry Campus,Tennessee,Advertising,600,2021-09-27,"[27.261751899999997, -80.83924929999998]",Partner
+University of Phoenix - Las Vegas Campus,Massachusetts,Organizational Behavior Studies,500,2022-07-28,"[36.1215132, -115.3225578]",Group
+Baker University,Indiana,Ancient Studies ,300,2021-09-28,"[39.354108700000005, -94.771262]",Group
+Arkansas State University Technical,Virginia,Equine Studies,600,2022-09-30,"[44.4903519, -92.31159]",Partner
+Waterloo Jr. High School,Colorado,Peace Studies,300,2022-09-30,"[38.33606109999999, -90.141535]",Group
+Wilbur Wright College,Pennsylvania,Sustainable Resource Management ,400,2022-07-31,"[41.9459483, -87.7862806]",Group
+Indiana University School of Dentistry,Illinois,Pre-Optometry,500,2021-08-30,"[39.774019700000004, -86.17998859999999]",Group
+National Louis University at Bullen Junior High School,North Dakota,Sustainable Resource Management ,300,2022-08-30,"[42.6128941, -87.85727740000002]",Group
+Southcentral Kentucky Community and Technical College - Glasgow Campus,Connecticut,Wildlife Management ,300,2021-12-27,"[37.0115153, -85.9074778]",Partner
+Rural Regional Technology Center,West Virginia,Photojournalism,400,2022-12-29,"[37.9071886, -95.2972591]",Group
+Rock Valley College at Samuelson Road Center,Michigan,Construction Management,700,2022-10-31,"[42.209019899999994, -89.0353494]",Partner
+Indiana Wesleyan University at Jameson Inn South,Alaska,Classics,200,2022-11-28,"[39.666652899999995, -86.0928833]",Group
+ITT Technical Institute - Baton Rouge,New York,Experimental Psychology ,200,2022-12-28,"[30.366306400000003, -91.0245835]",Partner
+National Louis University at Roosevelt MS,North Dakota,Aerospace Engineering,500,2022-10-29,"[41.885208299999995, -87.864566]",Group
+Alice Lloyd College,North Dakota,Music Education,500,2021-11-28,"[37.3344951, -82.8770547]",Group
+Iowa School of Beauty,Vermont,Landscape Architecture ,300,2022-12-31,"[42.441818, -96.365883]",Group
+Southern Arkansas University at University Of Arkansas Community College at Hope,Oregon,Recreation Management,400,2021-12-28,"[33.641039899999996, -93.5957257]",Group
+Marinello School of Beauty - City of Industry,Ohio,Photography,600,2022-12-28,"[33.9944664, -117.92799280000001]",Group
+Indiana Wesleyan University at Whitewater Technical Career Center,South Carolina,Journalism,300,2021-08-31,"[39.6333583, -85.16389559999998]",Partner
+Central Louisiana Technical Community College - Rod Brady Center,New Jersey,Voice ,400,2022-07-29,"[31.676820199999998, -92.1226083]",Partner
+University of Northern Iowa,Georgia,Biomedical Science,300,2021-07-31,"[42.5131211, -92.4628469]",Partner
+TRCC at Corrigan-Radgowski Correctional Center,Maine,Petroleum Engineering ,700,2021-10-31,"[41.4529645, -72.11106679999999]",Partner
+University of Maryland - College Park at McDaniels College,Alaska,Engineering Mechanics ,100,2022-09-30,"[39.5817181, -77.00217629999999]",Partner
+Olivet Nazarene University at Reavis High School,Wyoming,Biology,500,2021-08-31,"[41.75356000000001, -87.77631799999997]",Group
+University of Arizona - Downtown,Illinois,Special Education ,600,2022-08-29,"[32.291433000000005, -110.9700713]",Partner
+Aurora University at Woodstock North High School,Delaware,Latin American Studies ,700,2022-12-30,"[42.3508749, -88.42592429999998]",Group
+Colorado State University - Pueblo at Pikes Peak Community College,West Virginia,Military Science,800,2021-12-29,"[38.7642369, -104.78846800000001]",Group
+National Louis University at Neuqua Valley High School,Tennessee,Entomology ,500,2021-09-29,"[41.7081094, -88.19451289999998]",Group
+University of Iowa at Sioux City,Tennessee,Plant Pathology,400,2022-09-29,"[42.5270102, -96.4270388]",Group
+University of Phoenix at Olympic Collection,Oklahoma,Bioethics,500,2021-12-30,"[34.0383805, -118.4421038]",Partner
+Elmhurst College at Good Samaritan Hospital,Illinois,Teaching English as a Second Language,300,2022-07-27,"[41.8181667, -88.0082236]",Partner
+Greenville College at Alton High School,West Virginia,Film,600,2022-12-29,"[38.9357151, -90.1585391]",Group
+TRCC at Corrigan-Radgowski Correctional Center,Delaware,Materials Science ,600,2021-11-29,"[41.4529645, -72.11106679999999]",Partner
+National Louis University at Scott Lake Elementary,Connecticut,Radiologic Technology,700,2021-08-29,"[27.9528852, -81.94441909999998]",Partner
+Rockford Campus,Maine,Industrial Psychology ,400,2021-09-27,"[42.28016029999999, -88.9957463]",Partner
+Florida Technical College - Deland,Georgia,Home Economics,400,2022-10-29,"[29.0090168, -81.3008623]",Partner
+Olivet Nazarene University at Sullivan High School,Rhode Island,Feed Science,700,2021-10-31,"[42.0028084, -87.6689166]",Partner
+Eastern Illinois University at Tri-County Special Ed District,Washington,Botany/Plant Biology,300,2021-12-27,"[37.7486357, -89.09571020000001]",Group
+Adams State University at Monte Vista School District,Wisconsin,French,800,2022-07-30,"[37.5826146, -106.15467930000001]",Group
+Dalton State Coll,Georgia,Pharmacy ,300,2021-10-27,"[34.7829167, -85.0014364]",Group
+Marriott Townplace,Virginia,Child Care,800,2021-12-27,"[39.3271696, -94.91612009999999]",Group
+Atmore,Missouri,Anthropology,500,2021-11-30,"[31.113727899999997, -87.47024609999998]",Group
+Pikes Peak Community College at Peterson Air Force Base Military Programs,Oklahoma,Business Communications,600,2022-10-31,"[38.8212278, -104.7141792]",Group
+Western Barber Institute,Arizona,Interior Design,700,2021-12-30,"[34.2008189, -118.53500279999999]",Partner
+AAC at Mobile,New Mexico,Biotechnology,700,2022-10-29,"[30.646938899999995, -88.0670955]",Partner
+William T. McFatter Technical College,Wyoming,Industrial Management ,600,2022-07-30,"[26.087350100000002, -80.24298979999998]",Group
+University of Maine at Augusta at University of Maine at Fort Kent ITV Receive,Florida,"Hispanic-American, Puerto Rican, and Chicano Studies",500,2021-10-27,"[47.2503875, -68.5893628]",Group
+Florida State College at Jacksonville - Nassau Center,New Jersey,Biochemistry ,200,2022-12-30,"[30.61091859999999, -81.6199345]",Partner
+Aurora University at Sycamore High School,Illinois,Sculpture ,500,2022-10-29,"[41.98419610000001, -88.701089]",Group
+"Clinton School of Public Service, River Market/Arcade",Utah,Mineral Engineering ,700,2022-10-30,"[34.7473326, -92.2666064]",Group
+Johns Hopkins University at Thomas S. Wootton High School,Alaska,Medieval and Renaissance Studies ,800,2021-07-29,"[39.0768275, -77.183204]",Group
+Eastern Nazarene College at Early Learning Childcare,Ohio,Chinese ,600,2021-08-28,"[41.639677299999995, -70.9371073]",Group
+University of Phoenix at California Children's Services - San Bernardino,Connecticut,Cinematography and Film/Video Production,700,2022-11-29,"[34.0851852, -117.29732759999999]",Group
+Atlanta Center,Montana,Home Economics,400,2021-07-31,"[33.82308270000001, -84.3677513]",Group
+George Washington University at Hampton Roads Center,New York,Ancient Studies ,500,2022-11-28,"[37.1043975, -76.479579]",Group
+Fort Lee Center,District  of Columbia,Chiropractic,600,2022-11-28,"[37.2250175, -77.34658909999999]",Partner
+Hawaii Pacific University - Schofield Barracks,Tennessee,Statistics ,700,2022-10-28,"[21.487653299999998, -158.0689437]",Partner
+Graduate Center,Colorado,Art Education ,700,2022-11-30,"[39.7412872, -75.5492573]",Partner
+Baker University at Stoney Creek,Pennsylvania,Aquaculture,600,2022-10-29,"[39.7789143, -94.7959433]",Partner
+Glendale Community College,Ohio,American History,700,2022-11-30,"[34.168412599999996, -118.22907260000001]",Partner
+Governors State University at Grimes/Fleming Elementary School,Colorado,Dance ,300,2021-10-30,"[41.7756568, -87.7583815]",Group
+Louisiana Technical College - Jefferson Campus,Michigan,Welding Engineering ,400,2022-08-31,"[29.9742798, -90.1890143]",Group
+Dine College at Tuba City Site,Wisconsin,Entrepreneurship ,800,2022-10-27,"[36.1319509, -111.23371110000001]",Partner
+Pima County Community College District - Northwest Campus,Arizona,Middle Eastern Studies,100,2022-10-28,"[32.343513800000004, -111.02723789999999]",Partner
+University of Arizona - Pima Downtown,Utah,Latin American Studies ,400,2021-12-29,"[32.2372917, -110.9726446]",Partner
+Alexandria,Kansas,Gay and Lesbian Studies,500,2021-07-30,"[38.802421, -77.0650381]",Group
+Kaskaskia College at Salem Education Center,Massachusetts,American Literature,700,2021-09-29,"[38.6231172, -88.9492104]",Partner
+Montezuma High School,Nebraska,Educational Psychology ,700,2021-07-31,"[41.5907921, -92.52558570000001]",Group
+University of Saint Mary,Nebraska,English,200,2022-11-28,"[39.278411, -94.9060493]",Partner
+Hamilton High School,Arizona,Gay and Lesbian Studies,700,2021-09-27,"[41.522286, -84.91995899999998]",Group
+Bethesda University,Alabama,Art History,600,2021-11-28,"[33.842265399999995, -117.9411471]",Group
+Macon State College,Kansas,Jewelry and Metalsmithing,600,2022-08-30,"[32.7962119, -83.6880257]",Group
+"University of California, Riverside",Florida,Merchandising and Buying Operations,500,2021-10-29,"[33.97542429999999, -117.33159609999998]",Partner
+Aurora University at Professional Development Alliance,Mississippi,Biochemistry ,600,2021-09-29,"[41.5152439, -88.1482759]",Partner
+ITT Technical Institute - West Chester,Idaho,French,800,2021-07-28,"[39.162211, -84.4498383]",Partner
+University of Phoenix at Burlington Learning Center,Arizona,Psychology,400,2021-10-31,"[42.4821939, -71.1967023]",Group
+ITT Technical Institute - Wilmington,Minnesota,Aviation ,100,2021-10-30,"[42.587446, -71.15805929999998]",Group
+Western International University at Chaparral Suites Hotel,Texas,Pastoral Studies,300,2021-10-27,"[33.509904600000006, -111.9250211]",Partner
+Illinois State University at Lincoln Magnet School,Tennessee,Metallurgical Engineering ,300,2022-08-29,"[39.7987379, -89.64009519999998]",Partner
+University of Phoenix at Rady Children's Hospital,Oklahoma,Historic Preservation ,100,2022-08-28,"[32.7977575, -117.151407]",Partner
+Stamford Health System,New Jersey,Pre-Medicine ,500,2022-08-29,"[41.054953600000005, -73.55237389999998]",Group
+Albertus Magnus College at Hartford Learning Center,Nevada,Physician Assistant,200,2021-10-29,"[41.7633566, -72.6568317]",Partner
+ITT Technical Institute - San Dimas,Washington,Ceramics ,300,2022-10-31,"[34.1023427, -117.81850379999999]",Partner
+Strayer University at Teays Valley Business Park,Virginia,Pastoral Studies,400,2021-11-27,"[38.4539048, -81.9277997]",Group
+Notre Dame of Maryland University at Montgomery College Takoma Park Campus,Georgia,German ,500,2021-12-29,"[38.98517349999999, -77.02154209999998]",Group
+"Central Baptist Theological Seminary - Ann Arbor, MI location (at First Unitarian Universalist Congregation of Ann Arbor)",Oregon,Biopsychology,700,2021-12-27,"[42.2270107, -83.7848843]",Group
+University of Maine at Augusta at Foster Technical Center,Utah,Land Use Planning and Management,800,2021-10-31,"[44.6399252, -70.1299915]",Group
+California Lutheran University - Woodland Hills Center,Tennessee,Illustration,600,2022-10-31,"[34.1781138, -118.5907888]",Group
+Notre Dame of Maryland University at Union Memorial Hospital,Louisiana,Ceramics ,300,2021-10-30,"[39.3295973, -76.6143199]",Partner
+ITT Technical Institute - Phoenix,California,Actuarial Science,300,2021-12-28,"[33.467561100000005, -112.2657459]",Partner
+Governors State University at Metamora High School,Oregon,Portuguese ,500,2022-10-29,"[40.7956421, -89.36373999999998]",Partner
+St. John Lutheran School,North Dakota,Webmaster and Web Management,600,2022-08-30,"[42.165953200000004, -88.2956792]",Group
+Colorado Mountain College - Aspen,Alabama,International Relations,700,2022-12-31,"[39.2233977, -106.863887]",Group
+UA College of Medicine - Phoenix and Partnership with ASU,Virginia,Agriculture,800,2021-09-27,"[33.4516342, -112.0668689]",Partner
+Streamwood High School,Florida,Russian,600,2021-09-30,"[42.030530999999996, -88.197101]",Partner
+West Central Technical College,Illinois,Animal Behavior and Ethology,600,2022-07-27,"[33.6909839, -85.18357490000001]",Group
+Bridgewater State University -Stoughton High School,Texas,Automotive Engineering,500,2022-11-28,"[42.129969200000005, -71.10817990000001]",Group
+University of San Francisco - Regional - Sacramento,Nebraska,Engineering Physics,500,2022-09-30,"[38.580290600000005, -121.50626909999998]",Group
+Wichita State University West (WSU West),Maryland,Molecular Biology,400,2022-10-31,"[37.7529633, -97.459857]",Partner
+University of North Florida,Wisconsin,Marketing,800,2022-10-28,"[30.2729275, -81.50927890000001]",Group
+Colorado Northwestern Community College,Hawaii,Drawing,200,2021-07-29,"[40.0801088, -108.78877659999998]",Partner
+Indiana Wesleyan University at Red Rock Inn,Indiana,Classics,500,2021-10-31,"[41.364264, -86.31139]",Partner
+Kirkwood Community College at Kirkwood Regional Center-Washington Center,Arkansas,Rehabilitation Services,800,2021-07-29,"[41.30986, -91.7181202]",Group
+Southern Illinois University Carbondale at Scott Air Force Base,North Dakota,Range Science and Management,700,2022-11-27,"[38.539527, -89.87047790000001]",Group
+Ivy Tech Community College of Indiana at Oak Hill High School,Texas,Mathematics,300,2021-10-31,"[40.5796477, -85.8208108]",Partner
+Fort Lewis College at Navajo Program,Connecticut,Atmospheric Science,500,2021-12-31,"[36.7730938, -108.70000320000001]",Partner
+"Greenville College at Lake Land College, Mattoon Campus",North Dakota,Southeast Asia Studies ,500,2021-10-31,"[39.4168843, -88.380659]",Partner
+Sunrise Mountain High School,Iowa,Business Education,500,2021-12-31,"[33.676815500000004, -112.24045079999999]",Group
+Laurel Campus South,Illinois,Marine Science,800,2021-12-28,"[37.1023598, -84.0746313]",Partner
+University of Phoenix at East El Paso Campus 3,North Dakota,Chemistry,700,2021-08-27,"[31.728893900000003, -106.31028049999999]",Partner
+Benedictine University at Paradise Valley Community College,New Mexico,Speech Pathology ,300,2022-07-27,"[33.65137070000001, -112.01098200000001]",Partner
+Eastern Illinois University at Danville Area Community College,Louisiana,Applied Mathematics ,200,2021-08-28,"[40.131782, -87.59114650000002]",Partner
+Indiana Wesleyan University at Center for Workforce Development,Washington,Experimental Pathology,300,2021-09-29,"[39.3451339, -87.3913276]",Group
+Hair Professionals Career College Inc,New York,Pre-Medicine ,100,2022-12-29,"[41.9623025, -88.7181561]",Partner
+Indiana University East at Madison Program,Alaska,Photography,500,2021-10-27,"[38.78036779999999, -85.3761897]",Partner
+National Louis University at Elk Grove Junior High,Massachusetts,Biblical Studies,800,2022-08-31,"[42.0072939, -87.9905855]",Group
+Northern Illinois University at Joliet Professional Development Alliance,Maine,Social Work ,200,2022-11-28,"[41.5152439, -88.1482759]",Group
+New Orleans Baptist Theological Seminary,Illinois,Sport and Leisure Studies ,400,2022-08-29,"[30.004576399999998, -90.04125839999998]",Partner
+Saint Xavier University at Lake Villa Reading,Connecticut,Sculpture ,800,2022-09-27,"[42.404415500000006, -88.09518979999999]",Partner
+Azusa Pacific University - Orange County Regional Campus,Massachusetts,Artificial Intelligence and Robotics,100,2022-11-28,"[33.79633080000001, -117.87318970000001]",Partner
+University of San Diego,Connecticut,Paleontology,200,2021-09-27,"[32.7716583, -117.1915679]",Partner
+"J. F. Ingram State Technical College, Tutwiler Instructional Service Center",Oklahoma,Ocean Engineering ,600,2021-10-30,"[32.5647898, -86.1952965]",Group
+Ambassador-Enterprises,Pennsylvania,Finance,600,2022-11-28,"[41.1817006, -85.1051825]",Group
+Aurora University at Grass Lake Elementary School,District  of Columbia,Applied Mathematics ,400,2022-12-27,"[42.4399848, -88.13897519999998]",Group
+Lawrence High School,New York,Zoology,700,2021-07-28,"[38.948913, -95.24271]",Partner
+HCA Continental Division Education and Simulation Center,Kentucky,Urban Studies,400,2022-12-28,"[39.653568, -104.9923853]",Group
+University of Redlands - Cal Tech Pasadena,New Hampshire,Land Use Planning and Management,100,2022-10-27,"[34.1372414, -118.12381620000001]",Partner
+National Louis University - Lisle Campus,Idaho,Zoology,500,2021-07-29,"[41.8083506, -88.08540219999998]",Partner
+Benedictine University at Robeson High School,Missouri,Education of the Deaf ,800,2022-09-28,"[41.770144200000004, -87.63606670000001]",Group
+National Louis University at Children's Memorial Hospital,Rhode Island,Voice ,700,2021-12-31,"[41.92334959999999, -87.64832340000001]",Group
+University of Maine at Augusta at Mt. View High School,Wyoming,History,200,2021-12-31,"[44.551144799999996, -69.27009890000001]",Partner
+Alliant International University - San Francisco Law School,Washington,Education Administration,100,2021-08-28,"[37.7733347, -122.4227909]",Group
+Pat Wilsons Beauty College,New Mexico,Webmaster and Web Management,300,2022-11-29,"[37.842749700000006, -87.59012940000002]",Group
+Phoenix Campus (4025),Kansas,Athletic Training,500,2022-12-27,"[33.412578700000005, -112.0140094]",Partner
+Ivy Tech Community College of Indiana at Blackford High School,Pennsylvania,Floriculture,100,2021-11-29,"[40.484610100000005, -85.3765729]",Group
+Indiana Wesleyan University at Valle Vista,New Hampshire,Sculpture ,500,2021-08-30,"[39.6098285, -86.09032090000001]",Partner
+Notre Dame de Namur University - Mission College,West Virginia,Agricultural Economics,600,2021-08-31,"[37.3912164, -121.98204609999999]",Group
+Aurora University at Waukegan School District-Lincoln Center,Texas,Sculpture ,500,2021-09-29,"[42.3768209, -87.82956999999998]",Group
+Polk State College,Connecticut,Tourism,800,2021-08-31,"[28.032421799999998, -81.7145536]",Partner
+Indiana Wesleyan University at Good Samaritan Hospital - Vincennes,Maryland,Cinematography and Film/Video Production,200,2022-07-31,"[38.6727584, -87.53294009999998]",Group
+Benedictine University at Mount Prospect Police Department,Missouri,Engineering Physics,500,2021-09-27,"[42.0630078, -87.934311]",Group
+Woodstock,Oklahoma,Canadian Studies,800,2022-11-29,"[42.3401226, -88.48465949999998]",Partner
+Grinnell College,Delaware,Sound Engineering,600,2022-08-28,"[41.746949900000004, -92.7230514]",Group
+University of Miami,Arkansas,Italian,100,2022-12-31,"[25.721906399999998, -80.27801529999998]",Partner
+Ivy Tech Community College of Indiana at Greensburg Community High School,South Carolina,Statistics ,500,2021-10-31,"[39.3428778, -85.4679725]",Partner
+University of Phoenix at City of Tucson,Massachusetts,Spanish ,600,2021-12-28,"[32.2629522, -110.99366380000001]",Group
+Eastern Illinois University at Lincoln Trail College,Kentucky,German ,100,2022-08-27,"[39.0054135, -87.7240903]",Partner
+"Strayer University at Verizon Wireless, Wilmington NC",Vermont,Organizational Behavior Studies,500,2022-08-30,"[34.1993186, -77.90478879999998]",Partner
+USD 259 Wichita West High School,Wyoming,Jewish Studies,700,2021-08-28,"[37.674745, -97.3490635]",Partner
+Full Sail University,Colorado,Portuguese ,800,2022-12-28,"[28.5965321, -81.30134240000001]",Group
+Northern Arizona University at Phoenix,Massachusetts,Chemical Physics,800,2022-07-29,"[33.481493900000004, -112.0906723]",Partner
+Saint Xavier University at Rock Island,Kentucky,Agricultural Economics,100,2021-09-30,"[41.505138099999996, -90.5472032]",Partner
+Metropolitan State University of Denver at Arapahoe Community College,Indiana,Music Education,800,2022-11-28,"[39.608316200000004, -105.0190322]",Partner
+Thornton Fractional Center for Academics and Technology,New York,Air Traffic Control,700,2021-08-28,"[41.58561359999999, -87.528966]",Partner
+University of Phoenix at Marine Corps Air Station - Yuma Education Building,Wisconsin,Civil Engineering,700,2022-08-30,"[32.6576368, -114.5839789]",Partner
+Crowley's Ridge Technical Institute,Utah,East Asian Studies ,600,2022-08-29,"[35.0403033, -90.76760740000002]",Partner
+Armstrong State University,Wyoming,Pastoral Studies,600,2022-11-30,"[31.9781582, -81.16320479999999]",Group
+First Coast Technical College,Virginia,Aerospace Engineering,700,2022-11-29,"[29.9243083, -81.34574070000001]",Partner
+National Louis University - Elgin Campus,Alaska,Geological Engineering ,500,2021-09-28,"[42.006076, -88.33306499999998]",Group
+Southeastern University School of Divinity at Bayside Community Church,Florida,Journalism,400,2022-09-30,"[27.4729149, -82.38205470000003]",Group
+Arkansas State University Mid-South,Iowa,Physical Therapy,300,2022-12-30,"[35.1456656, -90.2238067]",Group
+Glasgow Regional Center,Kansas,Animal Behavior and Ethology,100,2022-08-31,"[36.9774606, -85.91662170000001]",Partner
+International Business College - Indianapolis,Georgia,Home Economics,700,2022-12-30,"[39.8854995, -86.04166099999998]",Partner
+University of Saint Joseph at Grace Academy,Nebraska,Pre-Optometry,800,2021-11-28,"[41.759665999999996, -72.6756312]",Group
+University of St. Francis at JFK Elementary School,Oregon,Religious Studies,400,2022-11-27,"[41.3316856, -89.2068741]",Group
+Saint Xavier University at Lake Geneva,Virginia,Molecular Biology,600,2021-10-28,"[42.545964399999995, -88.36779090000002]",Partner
+Judson A. Samuels South Campus,North Carolina,Botany/Plant Biology,500,2022-08-27,"[26.0099134, -80.21270460000002]",Partner
+Fort Hays State University at Maize,Kansas,Aquatic Biology,600,2021-09-30,"[37.7698104, -97.4766811]",Partner
+Casa Loma College - Hawthorne,Louisiana,Native American Studies,600,2021-11-27,"[33.92377010000001, -118.3261301]",Group
+National Louis University at Case HS,Kansas,Middle Eastern Studies,200,2022-12-27,"[42.7164, -87.8714136]",Group
+Sunny Hill School-Carpentersville,New Hampshire,Biochemistry ,700,2022-09-30,"[42.132957299999994, -88.25151799999998]",Group
+Governors State University at Washington-McKinley School,Minnesota,Pastoral Studies,400,2021-12-28,"[41.5015835, -87.6418005]",Group
+University of New Haven at Saybrook Point Inn & Spa,Colorado,Horticulture,300,2021-09-27,"[41.283524799999995, -72.3505832]",Partner
+Indiana Wesleyan University at Best Western Raintree Inn,Maine,Sculpture ,300,2022-10-28,"[39.888956, -85.38443050000001]",Partner
+University of New England - Portland Campus,Alaska,Industrial Management ,300,2022-07-30,"[43.6827076, -70.29581470000001]",Partner
+University of Arkansas Community College-Batesville,Arizona,Jazz Studies,500,2021-08-31,"[35.793335299999995, -91.61476850000001]",Group
+Olivet Nazarene University at Goodings Grove Elementary,Montana,Plant Pathology,800,2021-08-27,"[41.6300487, -87.93392610000002]",Partner
+UNH- Blackbird/Nashville,Iowa,Native American Studies,600,2021-12-27,"[36.116038, -86.76731500000002]",Partner
+Olivet Nazarene University at Intercontinental Hotel,Utah,Pharmacy ,800,2022-10-30,"[41.9740555, -87.86372209999998]",Partner
+University of Northern Iowa at Vermeer Pavilion,North Dakota,Marketing,600,2021-07-29,"[41.4081801, -92.872091]",Partner
+Middlesex Community College at Vinal Technical H.S.,Michigan,Pharmacy ,100,2021-08-28,"[41.5278795, -72.6751501]",Group
+Marinello School of Beauty - Hemet,Oregon,Urban Studies,500,2021-11-28,"[33.7459766, -116.9997696]",Group
+Pacific School of Religion,Oklahoma,Dance ,100,2022-09-28,"[37.876146399999996, -122.26330619999999]",Partner
+DePaul University at NorthShore University Health System School of Nurse Anesthe,Rhode Island,Wildlife Management ,500,2021-09-27,"[42.0655434, -87.68437279999998]",Group
+Johns Hopkins University at Northrop Grumman Corp. - Rolling Meadows,Arizona,Slavic Languages and Literatures ,700,2022-12-29,"[42.1003265, -88.0332517]",Group
+Trinidad State Junior College at Rocky Mountain Lineman Program,Indiana,Range Science and Management,300,2021-12-27,"[38.8126597, -104.80195959999999]",Partner
+University of Phoenix at Kaiser Permanente Sand Canyon Medical Offices,North Carolina,Physical Therapy,300,2022-12-30,"[33.65738839999999, -117.77368799999999]",Partner
+Trinity International University at Eastbrook Church,Arkansas,German ,800,2022-07-29,"[43.1142785, -87.9341121]",Group
+University of Iowa at Quad Cities Graduate Study Center,Alaska,Social Psychology ,400,2022-09-30,"[41.5030042, -90.5513921]",Group
+Ottawa University at Phoenix College,Colorado,Printmaking ,400,2021-11-28,"[33.481493900000004, -112.0906723]",Partner
+Med-Assist School of Hawaii,New Hampshire,Music Education,800,2021-07-31,"[21.305613100000002, -157.8614782]",Group
+Cambridge College -Springfield Regional Center,New Mexico,Animation and Special Effects,600,2021-12-28,"[42.1027686, -72.592123]",Group
+Georgia College & State University,Oregon,Physical Education ,700,2022-11-27,"[33.082738899999995, -83.23187320000001]",Group
+George Washington University at American Association for the Advancement of Science,Colorado,Classics,700,2022-11-28,"[38.900859000000004, -77.02821290000001]",Group
+Indiana Wesleyan University at Hampton Inn Northwest,California,Digital Communications and Media/Multimedia,800,2021-07-31,"[39.882762299999996, -86.26605129999999]",Partner
+Ivy Tech Community College of Indiana at New Castle Area Career Programs,Colorado,Hospitality,500,2022-09-27,"[39.91181029999999, -85.37788940000002]",Partner
+McKendree University at Belleville St. Elizabeth's Hospital,Michigan,Teacher Education ,800,2022-12-30,"[38.5108609, -89.9891536]",Partner
+Nutek Academy of Beauty Inc,Michigan,Architectural Engineering,400,2022-07-29,"[38.0756393, -83.95015440000002]",Partner
+"Strayer University at Verizon Wireless, Atlanta",Texas,Modern Greek ,100,2022-08-29,"[33.9161057, -84.3372926]",Group
+National Louis University at Sturgeon Bay High School,Mississippi,Counseling ,700,2021-07-27,"[44.835835100000004, -87.36292689999998]",Partner
+University of St. Francis at Morainne Valley Community College,Connecticut,Portuguese ,400,2021-09-28,"[41.693264, -87.8388691]",Group
+North Iowa Area Community College,California,Air Traffic Control,600,2021-09-29,"[43.158468, -93.1317039]",Group
+Millikin University at PACE/Mattoon,Michigan,Experimental Psychology ,700,2022-12-31,"[39.4811542, -88.3721138]",Group
+Aurora University,Idaho,Educational Psychology ,600,2021-11-30,"[41.7549208, -88.3476948]",Group
+Cameo Beauty Academy,Indiana,Theatre,200,2021-11-29,"[41.7159275, -87.74092259999998]",Partner
+National Louis University at Prairieview School,New Mexico,Artificial Intelligence and Robotics,100,2022-09-29,"[42.34297249999999, -88.0645753]",Partner
+Notre Dame de Namur University - Mission College,New Mexico,Criminology,700,2021-11-30,"[37.3912164, -121.98204609999999]",Partner
+Olivet Nazarene University at Heritage Middle School,Nevada,International Agriculture,500,2021-08-29,"[41.835493, -87.795699]",Group
+Indiana Wesleyan University at Hotel Ivy,Vermont,Dental Hygiene,700,2021-11-28,"[39.01102059999999, -84.63209300000001]",Partner
+Wellness Massage Therapy Institute,Alaska,Sport and Leisure Studies ,500,2022-12-27,"[41.6956651, -88.00913270000001]",Group
+Grand Canyon University at St. Joseph Hospital,New Hampshire,Business Communications,700,2021-09-30,"[33.4821999, -112.08040459999998]",Group
+University of Phoenix at Lynnwood Learning Center,Iowa,Agricultural Education,300,2021-12-27,"[47.8108112, -122.2957762]",Group
+University of Redlands - Temecula,Vermont,Architectural History,100,2021-08-28,"[33.4952966, -117.15887590000001]",Partner
+Southern Illinois University Edwardsville,Montana,Music Therapy,100,2022-10-28,"[38.7928034, -89.9953376]",Partner
+Newnan Center,Maryland,Biology,200,2022-11-30,"[33.3647532, -84.7831193]",Partner
+John Hersey High School District 214,Kentucky,English Composition ,700,2021-08-29,"[42.1038234, -87.95905649999999]",Partner
+Homewood Suites by Hilton Columbus,Montana,Slavic Languages and Literatures ,800,2022-07-28,"[32.549045299999996, -84.9344101]",Partner
+University of Phoenix at Torrance Police Department,Massachusetts,Construction Management,300,2022-07-29,"[33.8398625, -118.34232820000001]",Group
+Strayer University - Aurora Campus,Maine,Industrial Engineering ,200,2021-07-30,"[41.794216799999994, -88.36559140000001]",Group
+Indiana Wesleyan University at Kendrick Memorial Hospital,Arkansas,Forensic Science,400,2022-08-31,"[39.6076612, -86.35565550000001]",Group
+University of Redlands - Torrance,Maryland,Geology,800,2022-07-30,"[33.856380200000004, -118.29135120000001]",Partner
+South Shores Elementary School,Hawaii,English Composition ,700,2022-12-27,"[39.8105015, -88.95148619999998]",Group
+Heat & Frost Insulators,Arkansas,Organizational Behavior Studies,800,2021-11-28,"[33.4500864, -112.0253273]",Partner
+Saint Anthony College of Nursing at Highland Community College,North Carolina,Musical Theater,400,2022-09-30,"[42.2831242, -89.67394990000001]",Partner
+University of Phoenix at Hilton Cleveland South,West Virginia,Aerospace Engineering,800,2022-11-27,"[41.3933687, -81.65054769999998]",Partner
+Pinnacle College,Alabama,Advertising,800,2022-10-29,"[34.0817562, -118.14957120000001]",Partner
+Orlando Site,Iowa,Marine Biology,300,2021-12-31,"[28.5192658, -81.417101]",Partner
+Chaparral High School,Oregon,Journalism,700,2022-09-29,"[37.15620940000001, -98.0391396]",Group
+Carrington College - Portland,North Carolina,Gerontology ,500,2022-08-29,"[45.5321365, -122.6554426]",Group
+"University of Arkansas, Fayetteville at Hurlburt Field (Air Force Installation)",Pennsylvania,Applied Mathematics ,600,2022-10-31,"[30.419661699999995, -86.69851390000001]",Partner
+Morningside College at Dubuque Forum Area Education Agency,Missouri,Land Use Planning and Management,300,2021-09-28,"[42.511177, -90.7043696]",Partner
+Allen County Community College,Idaho,Music Therapy,800,2021-12-29,"[37.938448, -95.399694]",Group
+Arkansas Tech University at Center for Leadership and Learning,West Virginia,Oceanography,100,2022-09-29,"[35.3139234, -93.2150537]",Group
+Indiana Wesleyan University at Holiday Inn Select,Michigan,American History,200,2021-10-27,"[39.7290615, -86.2687923]",Group
+Gateway Community and Technical College - Highland Heights,Missouri,Film,600,2022-11-30,"[39.040985, -84.466719]",Group
+Western Iowa Tech Community College,North Carolina,Epidemiology,800,2022-11-30,"[42.483325, -96.3483827]",Partner
+Georgia Career Institute - Murfreesboro,Nevada,Architectural Engineering,200,2021-11-30,"[35.86820529999999, -86.3891637]",Partner
+Cook County HS,New Mexico,Business Communications,400,2021-09-29,"[31.1331492, -83.38373969999998]",Group
+George Washington University at Hanover High School,Massachusetts,Pre-Optometry,800,2021-10-31,"[37.688381, -77.38475540000002]",Group
+Briar Cliff University at Sheldon,Florida,Museum Studies,600,2021-07-31,"[43.18473970000001, -95.8798233]",Group
+Indiana Wesleyan University at Linton-Stockton High School,New York,Textile Engineering ,600,2022-11-27,"[39.0332784, -87.15640390000002]",Group
+DePaul University - O'Hare Campus,Delaware,Chiropractic,100,2022-09-28,"[41.99642539999999, -87.8622302]",Group
+Trinity International University at Christ Community Church,Oklahoma,Art Therapy,800,2022-08-30,"[38.872417299999995, -94.6139685]",Group
+National University -  County of Santa Clara SJOF-16,Washington,Recording Arts Technology,100,2022-10-29,"[37.38039860000001, -121.9217997]",Partner
+University of Phoenix at Hampton Inn & Suites - Fresno,Arizona,Advertising,200,2022-11-29,"[36.8384762, -119.7825533]",Partner
+Concordia University Chicago at St. Peter Lutheran School,Pennsylvania,Chemical Physics,800,2022-12-29,"[41.5284688, -88.0880153]",Partner
+Everest Institute - Atlanta Downtown,Georgia,Journalism,500,2022-09-29,"[33.7568359, -84.3920664]",Partner
+Academy of Art University - 540 Powell,Nevada,Public Administration ,800,2022-09-29,"[37.7898297, -122.4083666]",Partner
+Ivy Tech Community College of Indiana at Lost River Career Cooperative,Texas,Entomology ,100,2021-10-31,"[38.548744799999994, -86.47765849999998]",Partner
+Anderson University -Walker Information,Maine,Peace Studies,300,2021-08-31,"[39.9186217, -86.09906409999998]",Partner
+Modern Beauty Academy,Wisconsin,Technical  Writing ,400,2021-07-27,"[34.19529929999999, -119.18142279999999]",Group
+ITT Technical Institute - Jacksonville,Delaware,Government,200,2022-11-28,"[30.248978700000002, -81.5813833]",Group
+University of Phoenix at Embassy Suites Palmdale,Ohio,African-American Studies ,600,2022-12-29,"[34.5975238, -118.1407033]",Group
+University of Maine at Augusta at Caribou Learning Center,Maryland,Chinese ,800,2021-08-28,"[46.865307, -68.003388]",Group
+Mount Vernon Campus,Oregon,Ancient Studies ,500,2021-12-27,"[38.917416100000004, -77.08983599999998]",Group
+Saint Xavier University at Peoria,Arizona,Home Economics,300,2021-09-27,"[40.7533069, -89.615085]",Group
+Keiser University - Pembroke Pines,Ohio,Creative Writing,300,2022-12-31,"[26.0058245, -80.31517389999998]",Group
+Butler University,Ohio,Historic Preservation ,800,2022-11-29,"[39.8381669, -86.1705391]",Group
+Marquardt School District,West Virginia,American Literature,400,2022-09-27,"[41.9277929, -88.06373520000001]",Group
+University of Phoenix at Fairfield Inn Mission Viejo,Delaware,Entrepreneurship ,800,2021-12-29,"[33.5790614, -117.6704906]",Group
+Johns Hopkins University at George Fox Middle School,Oklahoma,International Agriculture,100,2022-09-29,"[39.1319027, -76.5485522]",Group
+Upper Iowa University at Wausau: NTC - Antigo,Texas,Public Relations,600,2021-12-27,"[45.12843669999999, -89.1361956]",Partner
+Indiana Wesleyan University at Signature Inn,New Hampshire,Criminal Science,200,2022-11-30,"[40.4185417, -86.82322839999998]",Partner
+John F Kennedy University - Berkeley Campus,District  of Columbia,Pre-Veterinary Medicine,200,2022-10-30,"[37.853163, -122.28771840000002]",Group
+McKendree University at Olney Central College,California,Neuroscience ,500,2021-07-29,"[38.736160999999996, -88.0991714]",Group
+Colorado Technical University at Pueblo Campus,Missouri,Russian,700,2022-09-29,"[38.271507299999996, -104.6213563]",Partner
+Indiana Wesleyan University at Dearborn County Hospital,North Carolina,Bioethics,300,2022-08-27,"[39.111381, -84.88342779999998]",Partner
+Professional Institute of Beauty,Virginia,Ceramic Engineering ,300,2021-08-27,"[34.075635600000005, -118.03896370000001]",Partner
+National Louis University at Creekside Middle School,New Hampshire,Voice ,100,2022-08-28,"[42.2785026, -88.44393749999998]",Group
+University of Hartford at Newington Prosthetics and Orthotics,Hawaii,Southeast Asia Studies ,200,2022-07-27,"[41.6977216, -72.7171808]",Partner
+University of St. Francis at Elk Grove High School,Arizona,Jewelry and Metalsmithing,700,2021-10-27,"[42.0109726, -87.9974699]",Partner
+Eastern Iowa Community College District at Muscantine Community College Outreach,North Dakota,Industrial Psychology ,600,2022-07-30,"[41.2691281, -91.3670387]",Group
+Lewis University at Westlake Hospital,Georgia,Criminal Science,300,2022-09-29,"[41.8929096, -87.848568]",Partner
+Lewis University at Advocate Christ Medical Center,Missouri,Environmental Science,600,2021-09-29,"[41.721808, -87.73261819999998]",Partner
+West Aurora High School,Wisconsin,Photojournalism,100,2022-08-27,"[41.764289700000006, -88.34403739999998]",Partner
+Graceland University at Grant Wood Area Educational Agency,Texas,Public Relations,600,2022-08-30,"[41.9352191, -91.6750062]",Group
+Benedictine University at Mount Prospect Police Department,Maine,Naval Architecture,700,2022-12-28,"[42.0630078, -87.934311]",Group
+Benedictine University at Waukegan Police Department,Washington,Urban Studies,200,2022-09-30,"[42.361250399999996, -87.83509749999997]",Partner
+Regis University at Choice Healthcare,North Carolina,Recreation Management,300,2022-09-27,"[40.4628045, -106.81581000000001]",Partner
+Ivy Tech Community College of Indiana at Delta High School,Nevada,Forensic Science,500,2021-11-30,"[40.278546, -85.34763799999998]",Partner
+University of the District of Columbia at North Capitol Street Center,Massachusetts,Welding Engineering ,800,2022-07-31,"[38.9004692, -77.0086917]",Partner
+Center for Employment Training - San Diego,Massachusetts,Dental Hygiene,200,2022-11-28,"[32.711527600000004, -117.12258390000001]",Partner
+National University -  Bakersfield,Hawaii,Teacher Education ,600,2022-10-29,"[35.3673328, -119.0539318]",Group
+Olivet Nazarene University at Kolb Elementary School,Florida,Oceanography,800,2021-08-27,"[41.7177336, -87.78793859999998]",Group
+Concordia University Chicago at Steeple Run School,South Carolina,Landscape Horticulture,700,2021-08-31,"[41.78265, -88.1050166]",Partner
+Old Town,Nevada,Biomedical Science,800,2021-08-30,"[37.6889277, -97.32979990000001]",Group
+Capitol Technology University,Michigan,English Composition ,600,2021-10-29,"[39.0470439, -76.85213900000001]",Partner
+Ocala Regional Campus,Hawaii,Recording Arts Technology,200,2021-09-30,"[29.16198189999999, -82.1733114]",Partner
+Carrington College California - Branch Campus Emeryville,Massachusetts,Speech Pathology ,600,2022-07-29,"[37.8468435, -122.29306499999998]",Partner
+National University of Health Sciences,New York,Medical Technology,800,2021-08-28,"[41.8608194, -88.01298949999997]",Group
+The University of West Florida,Georgia,Classics,200,2022-12-29,"[30.5491387, -87.21858619999998]",Group
+University of St. Francis at Christ Center Church,Virginia,Religious Studies,500,2021-11-28,"[25.7034152, -80.3025686]",Group
+Yates Center Senior High School,Iowa,Cognitive Psychology,400,2022-12-31,"[37.8867369, -95.7329851]",Group
+Lake Forest Graduate School of Management at Lake Forest Hospital Acute Care Center,Mississippi,Artificial Intelligence and Robotics,600,2021-07-29,"[42.33739, -88.0122296]",Group
+Lincoln Land Community College at Springfield FD,South Carolina,Radiologic Technology,100,2022-10-27,"[39.7920769, -89.60783649999998]",Group
+Pacific Oaks College -  Pacific Oaks College-San Jose Campus,Mississippi,Gay and Lesbian Studies,400,2022-11-29,"[37.3029625, -121.9505551]",Partner
+"Indiana Wesleyan University at Ramada Plaza Hotel, Warsaw",Wyoming,Advertising,400,2022-10-28,"[41.238800700000006, -85.82010550000001]",Partner
+Aurora University at Lee/Ogle Regional Office of Education,New Hampshire,Neurobiology ,500,2021-08-30,"[41.902739700000005, -89.40914609999999]",Group
+Butler County Community College - Butler of Marion,Virginia,East Asian Studies ,300,2022-08-27,"[38.348255200000004, -97.0147115]",Partner
+Southern Illinois University Edwardsville,Virginia,"African Languages, Literatures, and Linguistics",700,2021-09-29,"[38.7928034, -89.9953376]",Group
+Johns Hopkins University at Raytheon Space & Airborne Systems Salt Lake City,South Carolina,Biblical Studies,400,2022-12-31,"[40.71971569999999, -111.9245631]",Partner
+Florida State University College of Medicine,North Dakota,Paleontology,500,2022-07-29,"[30.4430401, -84.26995040000001]",Group
+CSU San Bernardino - Palm Desert,Nevada,Textile Engineering ,200,2021-10-30,"[33.7766605, -116.3551183]",Partner
+North Florida Technical College,Kentucky,Planetary Science,400,2021-08-31,"[29.951841700000003, -82.1158605]",Group
+University of Phoenix at Armed Forces Reserve Center,Michigan,Industrial Design ,100,2021-11-28,"[31.805519800000003, -106.28558999999998]",Partner
+Northern Illinois University at PALS Shorewood,Michigan,Religious Studies,200,2021-08-28,"[41.5169111, -88.21191740000002]",Group
+Hawkeye Community College at Cedar Falls Center,Illinois,Agricultural Business and Management,800,2021-08-28,"[42.4905581, -92.4523023]",Group
+Lake Land College at Pinckneyville Correctional Center,Nebraska,Rehabilitation Services,500,2021-11-27,"[38.083847399999996, -89.3258757]",Group
+Cairo Extension Center,New York,Modern Greek ,600,2021-12-27,"[37.0056176, -89.17792800000001]",Group
+National Louis University at Florida Regional Center,South Carolina,Music History ,200,2022-08-29,"[27.9930483, -82.54690529999998]",Partner
+Strayer University - Virginia Beach Campus,New Jersey,Mathematics,400,2021-12-31,"[36.842965899999996, -76.13412059999999]",Group
+East Georgia State College,Michigan,Athletic Training,500,2022-11-30,"[32.5933275, -82.30652280000002]",Partner
+Lewis University at M. A. School Counseling,Texas,Computer Graphics,700,2022-12-31,"[41.3067399, -89.1010881]",Group
+Olivet Nazarene University at Burbank (Luther) School,Idaho,Agronomy and Crop Science,800,2022-12-31,"[41.917759000000004, -87.7822516]",Partner
+Bridgewater State University - Alden Elementary School,Massachusetts,Public Relations,600,2022-08-31,"[42.0461227, -70.68178359999999]",Partner
+Herrera School,Louisiana,Actuarial Science,600,2021-12-30,"[33.435857899999995, -112.0586023]",Partner
+South Lake Campus,Florida,Arabic ,700,2022-07-27,"[28.5515635, -81.70826290000001]",Partner
+Irwin County EMA Center,Rhode Island,Ecology,200,2022-11-27,"[31.5782022, -83.2531262]",Partner
+Iowa Wesleyan University,California,Hebrew,500,2022-10-28,"[40.9728375, -91.5526085]",Partner
+Emperor's College of Traditional Oriental Medicine,District  of Columbia,Surveying ,400,2022-09-30,"[34.0303293, -118.4852375]",Partner
+Eagle Valley High School,South Dakota,Journalism,800,2022-11-29,"[39.6433933, -106.94794270000001]",Group
+Earlham College,Montana,Accounting,400,2022-08-29,"[39.825961799999995, -84.91333279999998]",Partner
+Fort Leavenworth,Wyoming,Russian,100,2021-09-29,"[39.3734607, -94.9435579]",Group
+International Academy of Hair Design - Mesa,Montana,Nuclear Engineering,100,2021-08-31,"[33.389508299999996, -111.8605382]",Group
+Moorpark College,Alabama,Criminology,500,2021-10-30,"[34.29961420000001, -118.83419140000001]",Partner
+The Garnett Automotive Training Center (GATC),Pennsylvania,Economics,800,2022-07-27,"[38.286381, -95.2421845]",Partner
+Moody Bible Institute at Milwaukee,Wyoming,Sound Engineering,700,2021-10-30,"[43.16194960000001, -88.03730209999999]",Partner
+Community College of Denver,North Dakota,Pre-Dentistry,800,2022-10-30,"[39.74130050000001, -105.0011656]",Partner
+Parkland School,North Dakota,Interior Design,500,2022-08-31,"[42.353989399999996, -88.3047946]",Partner
+Washburn Tech Academy of Cosmetology,Washington,Botany/Plant Biology,100,2022-11-27,"[39.01403579999999, -95.683366]",Group
+Olivet Nazarene University at St. James Hospital,New Jersey,Slavic Languages and Literatures ,200,2021-12-29,"[41.50530379999999, -87.6399603]",Partner
+Saint Mary's College of California - LEAP - Los Angeles,Utah,International Relations,400,2021-09-27,"[34.050351899999995, -118.242768]",Partner
+"Delaware Technical and Community College Orlando J. George, Jr. Campus",Maine,Finance,800,2021-11-28,"[39.7404764, -75.5524293]",Partner
+University of Phoenix - Sacramento Valley Campus,New York,Architectural History,200,2022-08-27,"[38.6220636, -121.51910179999999]",Group
+University of Phoenix at Metro Health,Alabama,Native American Studies,200,2021-07-30,"[42.85752960000001, -85.7187828]",Group
+Gilbert Community School District,South Dakota,Speech Pathology ,400,2022-11-29,"[42.1072111, -93.6418896]",Partner
+University of Phoenix at Verdugo Hills Hospital,Pennsylvania,Art Therapy,700,2021-08-31,"[34.204497100000005, -118.2157467]",Partner
+Maine Maritime Academy,Nebraska,Computer Systems Analysis ,700,2022-10-28,"[44.3885042, -68.8010997]",Group
+"University of Arkansas, Fayetteville at UA Pine Bluff",South Dakota,Art Education ,600,2022-10-30,"[34.2262213, -92.0195428]",Group
+Indiana Wesleyan University at WorkOne Express,Vermont,Architectural Engineering,200,2021-11-30,"[40.432888, -84.97762709999998]",Partner
+Southern Illinois University Carbondale at Rend Lake College Market Place,Wisconsin,Mineral Engineering ,600,2022-10-29,"[38.3191671, -88.95627999999998]",Group
+Harbor Occupational Center,Wisconsin,Radio and Television,100,2021-10-28,"[33.7498205, -118.2867808]",Partner
+University of Maryland - University College at Bagram,Wisconsin,Bioethics,200,2021-07-31,"[38.91265, -76.847599]",Group
+Hopkinsville Campus,Indiana,Mechanical Engineering,400,2021-07-31,"[36.80512, -87.47409449999998]",Partner
+Samford University,Iowa,Circulation Technology,700,2022-11-30,"[33.4649218, -86.7913423]",Group
+Boston University at South Middlesex Correctional Center (Prison Education Program),Maine,Industrial Engineering ,100,2022-11-29,"[42.329129200000004, -71.43559020000001]",Partner
+Visalia Campus,Utah,"Hispanic-American, Puerto Rican, and Chicano Studies",800,2021-07-31,"[36.327784, -119.385069]",Partner
+Ball Memorial Hospital,Texas,Dietetics,300,2022-08-31,"[40.197283, -85.41419300000001]",Partner
+PJ's College of Cosmetology,Vermont,Engineering Physics,700,2021-11-29,"[39.8324489, -84.8427015]",Group
+Sojourner-Douglass College Annapolis,Kansas,Food Science,300,2021-10-31,"[38.928493700000004, -76.5620622]",Group
+University of Phoenix at Flint Learning Center,Vermont,Entrepreneurship ,800,2022-09-30,"[42.981547799999994, -83.76940499999998]",Partner
+Morningside College at Lewis Central Middle School,Texas,Marine Biology,800,2022-08-29,"[41.221269, -95.8199736]",Group
+National University -  Advance Kids SOFF-27,Oklahoma,Jazz Studies,200,2021-11-28,"[38.5624324, -121.33260959999998]",Partner
+Concordia University Chicago at Lemont High School,Kentucky,Agricultural Economics,300,2022-09-29,"[41.6735297, -87.99158]",Partner
+Lake Land College at Southwestern Correctional Center,West Virginia,Teacher Education ,200,2022-07-30,"[38.6169545, -90.09108640000001]",Partner
+St. John's Seminary in California,Alaska,Geophysics,300,2022-10-27,"[34.243171000000004, -119.0054004]",Group
+Ivy Tech Community College of Indiana at Academic Learning Center,North Dakota,Equine Studies,100,2021-10-29,"[41.437441899999996, -87.3341428]",Group
+Upper Iowa University at Wausau: NTC - Phillips,Washington,Southeast Asia Studies ,200,2021-09-30,"[45.7069639, -90.420082]",Group
+University of Phoenix - Placer County Auburn DeWitt Center,Nebraska,Japanese ,400,2022-09-28,"[38.9413256, -121.1071291]",Group
+Future Forward at Bollman,Connecticut,Latin American Studies ,600,2021-11-28,"[39.8673151, -104.9786105]",Group
+Louisiana Technical College - Bastrop Campus,Utah,Public Administration ,500,2021-08-28,"[32.7814549, -91.9374868]",Partner
+Saint Joseph Seminary College,North Carolina,Public Health ,400,2022-11-29,"[30.5268522, -90.1136423]",Partner
+Western Illinois University at Springfield Police Academy,Colorado,Tourism,100,2021-09-27,"[39.84764020000001, -89.6318381]",Group
+Regis University at Arvada High School,Arkansas,Religious Studies,600,2021-10-31,"[39.8157929, -105.08478600000001]",Group
+Career Academy of Hair Design,Georgia,Nuclear Engineering,600,2021-07-27,"[36.3550269, -94.1466981]",Partner
+Ivy Tech Community College of Indiana at Union County High School,Illinois,Music Education,300,2022-11-28,"[39.6345265, -84.92126069999998]",Group
+West Dade,Maryland,Digital Communications and Media/Multimedia,300,2021-08-30,"[25.8211174, -80.3279562]",Group
+North Campus,Vermont,Animation and Special Effects,100,2021-07-27,"[28.5949189, -82.40545089999998]",Partner
+Delaware State University Georgetown Campus,New Hampshire,"Hispanic-American, Puerto Rican, and Chicano Studies",300,2022-10-29,"[38.69032120000001, -75.3860337]",Group
+Aesthetics Institute of Cosmetology,North Dakota,Sculpture ,700,2022-12-30,"[39.1875246, -78.14651099999998]",Group
+University of Redlands - South Coast Metro,Pennsylvania,Information Technology,300,2021-10-27,"[33.697441999999995, -117.8660942]",Group
+Cairo Extension Center,New Jersey,Biomedical Engineering,200,2022-09-28,"[37.004178100000004, -89.1696194]",Group
+"University of Phoenix at Mt. San Jacinto College, Menifee Valley Campus",Louisiana,Cinematography and Film/Video Production,400,2022-12-28,"[33.6755248, -117.166921]",Group
+Carrington College Branch Campus Pleasant Hill,Wisconsin,History,700,2021-08-30,"[37.962615500000005, -122.0721152]",Group
+Georgia Southwestern State University,Arizona,Ocean Engineering ,200,2021-08-29,"[32.05603789999999, -84.21750809999998]",Partner
+Mount Saint Mary's University - Doheny Campus,New Hampshire,Developmental Psychology ,400,2021-11-28,"[34.031087799999995, -118.2760959]",Partner
+Indiana Wesleyan University at Bob Rohrman Toyota,Hawaii,Fashion Design,600,2021-11-27,"[40.41857329999999, -86.832655]",Group
+Paul Mitchell The School Jacksonville,Oregon,Kinesiology,400,2022-10-30,"[30.259374400000002, -81.5276712]",Partner
+University of Phoenix at Four Points Hotel by Sheraton,New Jersey,Agricultural/Biological Engineering and Bioengineering,100,2021-09-27,"[32.810874, -117.1492695]",Group
+Johnson County Community College at Olathe Health Center,Washington,Furniture Design,700,2021-07-31,"[38.852405100000006, -94.8307587]",Group
+Baker University at Country Inn Suites,Michigan,Political Science,400,2021-09-28,"[38.7890154, -97.6151071]",Group
+Governors State University at Triton College,Rhode Island,Massage Therapy,700,2022-07-28,"[41.91503779999999, -87.83885889999998]",Group
+Towson University at Waldorf Higher Education Center,Alabama,Equine Studies,500,2021-10-28,"[38.6225331, -76.91150090000001]",Partner
+National Louis University at Manor Hill Elementary School,Maine,Music,100,2022-07-31,"[41.853849600000004, -88.01768340000001]",Group
+Bunker Hill Community College - Chelsea Campus,Idaho,Technology Education,500,2021-10-30,"[42.3924179, -71.0338514]",Partner
+"Olivet Nazarene University at Molex, INC",Oregon,Religious Studies,700,2022-07-31,"[41.796471999999994, -88.09738709999998]",Group
+Indiana Wesleyan University at Clarion Hotel and Conference Center,Arizona,Biochemistry ,600,2021-09-29,"[39.8065955, -86.28421170000001]",Partner
+Ivy Tech Community College of Indiana at Delta High School,South Dakota,Public Health ,700,2021-09-30,"[40.278546, -85.34763799999998]",Partner
+ISU -- Boise Center,South Dakota,Church Music,400,2022-08-28,"[43.6588819, -116.33609340000001]",Group
+Paine College,Vermont,Agriculture,400,2021-08-27,"[33.468210600000006, -81.99361800000001]",Group
+"Indiana Wesleyan University at Best Western, Madison",South Carolina,Chiropractic,700,2021-11-28,"[38.7758244, -85.4006725]",Partner
+Friends University at Seward County Community College - Liberal,Michigan,Spanish ,200,2021-08-29,"[37.060227399999995, -100.9178417]",Group
+Yale-New Haven Hospital School of Nurse Anesthesia,Michigan,Materials Science ,500,2021-09-28,"[41.31124519999999, -72.94266970000001]",Partner
+Ivy Tech Community College of Indiana at Bluffton High School,South Carolina,Pre-Veterinary Medicine,400,2022-07-27,"[40.72556180000001, -85.1638208]",Partner
+Southern Illinois University Carbondale at Jacksonville Naval Air Station,Georgia,Game Design,600,2021-07-31,"[30.223403899999997, -81.68412009999999]",Group
+Hamilton Campus,Maryland,Business Education,200,2021-11-28,"[34.1334456, -87.9909017]",Group
+University of Phoenix at Marine Corps Air Station - Yuma Education Building,District  of Columbia,Recreation Management,400,2022-12-30,"[32.6576368, -114.5839789]",Partner
+WM Penn University College for Working Adults/Ames,Alabama,Archeology ,400,2021-09-27,"[42.0078812, -93.6155274]",Group
+University of Phoenix at Clackamas Campus,Minnesota,Child Care,400,2022-10-30,"[45.4323677, -122.56787959999998]",Partner
+Rockland Center of University College,Maryland,Museum Studies,500,2021-12-30,"[44.1167411, -69.10328670000001]",Partner
+AEA 267-Mason City Extension,Alabama,Philosophy,100,2022-08-30,"[43.157835299999995, -93.3313365]",Group
+Grand Canyon University at St. Joseph Hospital,California,Physician Assistant,600,2022-12-27,"[33.4821999, -112.08040459999998]",Group
+Des Moines Roosevelt High School,Colorado,Jewelry and Metalsmithing,600,2021-11-30,"[41.5929451, -93.680706]",Partner
+"Chesapeake College - Center for Allied Health, Memorial Hospital",Utah,Radio and Television,800,2021-07-27,"[38.769388899999996, -76.076719]",Partner
+Southern Illinois University Edwardsville at Millstadt School,Rhode Island,Child Care,300,2022-08-31,"[38.46302120000001, -90.0947076]",Partner
+Southeastern Community College,New Mexico,Photojournalism,700,2022-09-28,"[40.8119203, -91.1737933]",Partner
+The Landing School,South Carolina,Air Traffic Control,600,2021-11-29,"[43.3799417, -70.50351119999998]",Partner
+Goshen High School,Louisiana,Dietetics,600,2022-07-31,"[41.5804716, -85.8233391]",Partner
+Newman University at St. Rose Parish,Idaho,Industrial Engineering ,100,2021-12-29,"[38.36573840000001, -98.7621775]",Partner
+Drake University at Kansas City Extension,Iowa,Ceramics ,500,2022-09-27,"[39.0431432, -94.59654509999999]",Partner
+ITT Technical Institute - Albany,Oregon,Pharmacy ,700,2021-10-27,"[42.7363204, -73.8201265]",Partner
+Emily Griffith Technical College,Minnesota,South Asian Studies,800,2021-08-27,"[39.7976744, -105.0118192]",Partner
+SU - Art Inst of Dallas,Delaware,Agricultural Education,500,2022-07-31,"[32.8693368, -96.7683876]",Partner
+Milwaukee Main-Liberty 1,Ohio,Public Administration ,400,2022-10-30,"[43.152682500000004, -88.05304160000001]",Partner
+Future Forward at Washington Square,New Hampshire,Portuguese ,700,2022-10-27,"[39.9229283, -104.97823980000001]",Group
+Alvareita's College of Cosmetology,Connecticut,Web Design,800,2022-09-28,"[38.931875899999994, -90.19228340000001]",Partner
+Ft. Campbell Campus,Georgia,International Business ,300,2022-07-27,"[36.6398486, -87.44372829999998]",Partner
+Saint Xavier University at East Peoria 02,Delaware,"Fiber, Textiles, and Weaving Arts",700,2022-07-27,"[40.6348384, -89.548805]",Group
+University of St. Francis at LaGrange Area Dept. of Special Ed.,Missouri,Urban Planning,100,2022-09-28,"[41.811945200000004, -87.88676960000002]",Group
+Maricopa Community Colleges - Mesa Community College at Red Mountain,Vermont,Range Science and Management,800,2021-08-31,"[33.4548197, -111.67621740000001]",Partner
+Orange Coast College,Wisconsin,Animation and Special Effects,500,2021-10-28,"[33.6713265, -117.91170790000001]",Group
+Kaskaskia College at Salem Education Center,Maine,Data Processing,100,2022-12-31,"[38.6273465, -88.9470688]",Partner
+Concorde Career College,South Carolina,Russian,200,2022-12-28,"[34.0667834, -117.2840338]",Group
+Daymar College - Online,Nevada,French,100,2021-09-29,"[38.1561506, -85.6842972]",Group
+University of Phoenix at Countryside Inn & Suites,Wyoming,Ancient Studies ,600,2021-10-30,"[33.6654992, -117.88191880000001]",Group
+McDaniel College at Anne Arundel Commmunity College at Arundel Mills,Virginia,Hospitality,300,2021-07-29,"[39.162498, -76.72362799999998]",Partner
+Northern Illinois University at Carl Schurz High School,Florida,Oceanography,200,2021-09-30,"[41.9474657, -87.7352863]",Partner
+Titusville Campus,Vermont,Planetary Science,700,2021-11-28,"[28.6334652, -80.8274929]",Partner
+Ivy Tech Community College of Indiana at Kokomo Area Career Center,Wisconsin,Jewelry and Metalsmithing,400,2022-08-31,"[40.4565261, -86.1601158]",Partner
+Purdue University-North Central at PNC Porter County,Alabama,Anthropology,600,2021-08-30,"[41.49254620000001, -87.0534005]",Partner
+Talbot School of Theology - Manhattan location (Charles L. Feinberg Center),Louisiana,Mortuary Science ,400,2021-11-27,"[40.7559755, -73.96861059999998]",Group
+National Louis University at Vernon Hills HS,Texas,Agronomy and Crop Science,200,2022-08-30,"[42.226754, -87.94895029999998]",Group
+Parkland College at Construction Education Alliance,Connecticut,Child Care,200,2021-12-28,"[40.13057999999999, -88.27843089999998]",Group
+St. Rita High School,New York,Game Design,700,2021-12-27,"[41.751727200000005, -87.68584849999998]",Partner
+Concordia University Chicago at Lake Zurich High School,Minnesota,Industrial Engineering ,600,2021-11-30,"[42.2042957, -88.08356930000002]",Group
+Emily Griffith Technical College,Utah,International Agriculture,700,2022-08-28,"[39.7681545, -104.8869531]",Group
+Indiana Wesleyan University at Rolls Royce Allison,Connecticut,Physical Therapy,600,2022-09-28,"[39.7329653, -86.2166041]",Group
+ITT Technical Institute - Columbus,Delaware,Criminal Science,800,2021-10-27,"[39.9338894, -82.86885759999998]",Partner
+University of Phoenix at Plainfield,Arizona,Church Music,400,2022-12-29,"[39.7202384, -86.35426290000001]",Partner
+Lakeland Campus,North Carolina,Circulation Technology,500,2022-08-29,"[27.9906672, -81.8900359]",Partner
+MacDill Education Office,Arizona,Physical Therapy,600,2021-09-28,"[27.850474900000002, -82.48944879999998]",Partner
+Ivy Tech Community College of Indiana at Public Safety Academy,Minnesota,Respiratory Therapy,500,2022-12-30,"[41.011556, -85.12150550000001]",Partner
+Oceanside College of Beauty,California,Horticulture,200,2021-08-30,"[33.1783066, -117.3653659]",Group
+Arizona State University - Cox Communications,Oklahoma,American Sign Language,600,2021-11-27,"[33.684486799999995, -112.093653]",Group
+Olivet Nazarene University at OAK Orthopedics,Kansas,Forensic Science,200,2022-07-28,"[40.117104, -88.22775999999998]",Partner
+Western Illinois University at Quad Cities Riverfront Campus,Alaska,Tourism,200,2021-11-27,"[41.5134744, -90.49266860000002]",Partner
+Governors State University at Donald L. Morril Math & Science School,Arizona,Rehabilitation Services,700,2021-09-29,"[41.78402759999999, -87.68823270000001]",Group
+Camp Dodge LIFE Program,Vermont,Naval Architecture,500,2021-12-31,"[41.6895101, -93.71630649999999]",Group
+Emmanuel College at Brigham and Woman's Hospital,North Dakota,Cognitive Psychology,100,2022-11-29,"[42.336895500000004, -71.10915949999998]",Group
+National Louis University at Jefferson MS,District  of Columbia,Latin American Studies ,100,2021-12-31,"[41.89723060000001, -87.9853832]",Group
+University of Arizona - Pima Desert Vista,Wyoming,Latin American Studies ,700,2021-07-27,"[32.1454129, -110.98964679999999]",Group
+National University -  Tulare City School District,Georgia,Biblical Studies,300,2022-12-31,"[36.2171289, -119.33728529999999]",Partner
+Trine University Health Services Campus,Maine,English Composition ,800,2022-08-31,"[41.0919867, -85.1074311]",Partner
+Aurora University at Grayslake School District,Washington,Medical Technology,500,2022-12-30,"[42.35344620000001, -88.03318019999998]",Group
+University of Phoenix at The Centre at Sycamore Plaza,West Virginia,Entomology ,500,2021-10-30,"[33.849454200000004, -118.13333290000001]",Partner
+"Boston University at Tyngsboro, MA",Wisconsin,Gay and Lesbian Studies,200,2021-08-28,"[42.65891939999999, -71.40818220000001]",Partner
+University of Phoenix - Southern California Campus,Wisconsin,Mathematics,800,2021-12-31,"[33.6857413, -117.8848835]",Partner
+Titusville Campus,Ohio,Biopsychology,700,2021-07-30,"[28.6334652, -80.8274929]",Group
+Iowa Lakes Community College - Spirit Lake,Texas,Organizational Behavior Studies,400,2021-10-28,"[43.4202767, -95.1027433]",Partner
+Benedictine University at Woodland Middle School,District  of Columbia,Massage Therapy,700,2022-12-28,"[42.3652554, -87.9762198]",Partner
+Indiana Wesleyan University at Inn At Amish Acres,Montana,Dietetics,800,2021-11-29,"[41.4432183, -86.0156252]",Group
+University of Phoenix - Little Rock Campus,Washington,Game Design,100,2021-12-29,"[34.74919879999999, -92.3952762]",Partner
+Charter College - Lacey,Arizona,Experimental Psychology ,200,2021-09-30,"[47.036955, -122.82509209999999]",Partner
+Diman Regional Technical Institute - School of Practical Nursing,Oregon,Pre-Optometry,400,2022-10-28,"[41.718542600000006, -71.15508270000001]",Partner
+Concordia University Chicago at Wheaton North High School,Idaho,Agricultural Economics,300,2021-09-30,"[41.8834782, -88.1166303]",Partner
+Mission College,Tennessee,Microbiology ,100,2022-09-30,"[37.3912164, -121.98204609999999]",Group
+Cambridge College - Merrimack Valley Regional Center,New York,Pre-Seminary,600,2022-10-29,"[42.7028963, -71.1504777]",Group
+Johns Hopkins University at Timonium Center,Massachusetts,American Literature,600,2022-12-31,"[39.4328622, -76.63139240000001]",Partner
+National Louis University at UPS Addison,Florida,Industrial Design ,200,2022-08-29,"[41.9242697, -88.02499820000001]",Partner
+University of Phoenix at The Phoenix Building,California,Child Care,600,2021-08-27,"[31.8477918, -106.62346609999999]",Partner
+UMA at Rumford Center,Kentucky,American Studies,500,2021-08-31,"[44.5468564, -70.5450354]",Partner
+Olivet Nazarene University at Evanston Township H.S.,Maine,Risk Management,700,2021-10-29,"[42.0475443, -87.6997693]",Partner
+Saint Xavier University at Parkland Middle School,Pennsylvania,Pre-Dentistry,100,2022-10-29,"[42.353989399999996, -88.3047946]",Group
+Carl Sandburg College - The Extension Center,Pennsylvania,Information Technology,200,2022-10-28,"[40.5511926, -90.5090113]",Partner
+Johns Hopkins University at Higher Education and Applied Technology Center (HEAT),Iowa,Education Administration,100,2022-12-28,"[39.5286691, -76.1969843]",Partner
+National Louis University at Jefferson High School,Washington,Industrial Design ,200,2021-11-28,"[43.0038644, -88.82014769999998]",Group
+Shortridge Magnet High School for Law and Public Policy,Rhode Island,Mortuary Science ,700,2021-11-28,"[39.818108200000005, -86.15522440000001]",Group
+The Catholic University of America at Capitol Hill,Illinois,Petroleum Engineering ,800,2022-09-29,"[38.8875787, -77.01215649999999]",Partner
+Harlem High School,Mississippi,Planetary Science,800,2021-07-27,"[42.35737, -89.026274]",Group
+"Strayer University at Verizon Wireless, Mankato",Ohio,Historic Preservation ,300,2022-08-30,"[44.1759529, -93.943901]",Partner
+Western Connecticut Health Network Dietetic Internship,South Dakota,Dental Hygiene,800,2021-11-27,"[41.4050684, -73.4445166]",Partner
+University of New Haven at Saybrook Point Inn & Spa,Arizona,Massage Therapy,600,2021-12-31,"[41.283524799999995, -72.3505832]",Group
+Amridge University,Vermont,Pre-Medicine ,700,2021-07-27,"[32.3626131, -86.17382490000001]",Group
+Oakland City University at Branchville Correctional Facility,Colorado,Marine Science,600,2021-09-27,"[37.94893, -86.7702213]",Group
+Appalachian Technical College,Texas,Landscape Architecture ,600,2022-09-30,"[34.47072429999999, -84.4255548]",Partner
+Pleasure Ridge Park HS,Tennessee,"African Languages, Literatures, and Linguistics",700,2021-08-27,"[38.146142, -85.863417]",Partner
+Olivet Nazarene University at First Baptist Congregational Church,Indiana,Culinary Arts,300,2022-07-30,"[41.883052299999996, -87.6673986]",Group
+Mount St Mary's University at Carroll Community College,Connecticut,Biblical Studies,200,2022-08-28,"[39.5297287, -76.99363670000001]",Group
+Balsz Elementary District,Illinois,Land Use Planning and Management,400,2022-10-30,"[33.46127, -111.98913780000001]",Group
+Southern Arkansas University Tech at Texarkana,Vermont,Gerontology ,200,2022-09-30,"[33.455424900000004, -93.9966412]",Group
+Santa Clara University - East San Jose,New Jersey,Art History,500,2022-07-27,"[37.3598845, -121.8160472]",Partner
+Northland Pioneer College - White Mountain,Arizona,Forestry ,700,2022-07-29,"[34.2447938, -110.0529457]",Group
+Lincoln College of Technology - Denver,Louisiana,Circulation Technology,400,2021-12-29,"[39.776513, -104.856172]",Group
+Arkansas State University-Beebe Little Rock Air Force Base,North Dakota,Data Processing,100,2022-08-31,"[34.887953, -92.1117892]",Group
+Heat & Frost Insulators,Virginia,Computer Systems Analysis ,400,2021-10-31,"[33.4500864, -112.0253273]",Partner
+University of Maine at Augusta at Lewiston Auburn College/USM ITV receive,New Jersey,Criminology,100,2022-10-31,"[44.0761559, -70.17147890000001]",Partner
+National Louis University at UIC College Prep,Montana,Biopsychology,600,2021-10-29,"[41.86526679999999, -87.6756054]",Partner
+Saint Xavier University at Winnebago,Idaho,Political Science,600,2021-12-29,"[42.2714852, -89.2403317]",Group
+Fort Hays State University at Manhattan,Wisconsin,Agricultural Technology Management,200,2022-09-27,"[39.179633100000004, -96.5915195]",Group
+ITT Technical Institute - Hanover,Missouri,Business Administration/Management,600,2022-07-27,"[39.1715825, -76.727164]",Group
+Alabama A & M University,Colorado,Kinesiology,600,2022-08-28,"[34.782659100000004, -86.57028950000002]",Partner
+Eastern Nazarene College at Roxbury Community College,Alabama,Aquatic Biology,100,2022-07-31,"[42.329242, -71.095479]",Group
+Indiana Wesleyan University at Hampton Inn Northwest,Rhode Island,Mineral Engineering ,600,2021-12-29,"[39.882762299999996, -86.26605129999999]",Group
+Calumet College of St. Joseph at Geminus Center,California,Ocean Engineering ,200,2022-12-29,"[41.4652592, -87.32072869999998]",Group
+Walker Memorial Academy,New Hampshire,Logistics Management,100,2022-12-30,"[27.6278887, -81.52319320000001]",Group
+Saint Joseph's College of Maine,Alabama,Photography,100,2021-12-29,"[43.8270272, -70.484296]",Partner
+Marinello School of Beauty - Bakersfield,Delaware,Computer Engineering,700,2022-12-28,"[35.3388097, -119.04426529999999]",Group
+American International College at Medford High School,New York,Psychology,800,2021-08-27,"[42.4300372, -71.1249843]",Partner
+North Arkansas College,Virginia,Turfgrass Science,100,2022-07-28,"[36.2210816, -93.0886963]",Group
+Northern Arizona University - Phoenix Biomedical Campus,Washington,Canadian Studies,800,2022-07-31,"[33.4521408, -112.06705890000002]",Group
+Clark University -GSOM Metrowest Campus,Georgia,Agronomy and Crop Science,100,2022-12-30,"[42.291134299999996, -71.5517164]",Group
+"North Florida Technical College, Florida State Prison",Maryland,Actuarial Science,100,2021-07-27,"[30.05801109999999, -82.18270369999998]",Partner
+Southern Illinois University Carbondale at Lewis and Clark Elementary School,Alaska,Home Economics,400,2022-11-27,"[38.8624988, -90.0882441]",Group
+Regis University at Northridge High School,Delaware,Russian,100,2021-12-29,"[40.4335005, -104.7860063]",Partner
+Arkansas Beauty School - Little Rock,Louisiana,Women's Studies,700,2021-10-30,"[34.67215330000001, -92.343337]",Group
+Eastern Arizona College at Swift Trail Correctional Institute,Minnesota,Geography,800,2022-07-29,"[32.717175899999994, -109.7269737]",Partner
+Governors State University at Dodge School,Maine,Automotive Engineering,200,2021-07-29,"[41.88267020000001, -87.69291419999998]",Group
+Pacific Oaks College -  Pacific Oaks College-San Jose Campus,Nevada,Industrial Management ,800,2021-12-30,"[37.3029625, -121.9505551]",Partner
+Benedictine University at Martin Elementary,Nevada,Agricultural Economics,400,2022-10-29,"[42.185858700000004, -88.40722699999998]",Group
+"Indiana Institute of Technology at Comfort Inn, Lebanon",New Jersey,Biology,700,2022-08-27,"[40.048192799999995, -86.488875]",Partner
+CSU East Bay -  San Ramon Valley Conference Center,Illinois,Plant Pathology,400,2022-11-29,"[37.777898, -121.9668183]",Partner
+North Island Naval Air Station,Colorado,Public Health ,500,2022-11-29,"[32.7001706, -117.1893668]",Group
+Aurora University at Challenger Learning Center for Science and Technology,Alaska,English,200,2021-07-27,"[42.31591220000001, -88.4456124]",Group
+Neosho County Community College at Chanute High School,Maryland,Agricultural Business and Management,500,2021-07-29,"[37.6437095, -95.4732182]",Group
+Mount Vernon Township High School,Connecticut,Education,200,2022-12-27,"[38.2896815, -88.94794019999998]",Group
+Waterbury School District,Kentucky,Botany/Plant Biology,500,2022-11-29,"[41.5546511, -73.0431868]",Partner
+Blount Downtown Center,New Mexico,Sculpture ,800,2022-09-29,"[29.6547211, -82.33056450000001]",Group
+Benedictine University at Marie Curie High School,South Carolina,Entomology ,400,2022-10-28,"[41.801854399999996, -87.72187939999998]",Partner
+Lurleen B Wallace Community College - Greenville Campus,Nebraska,Management Information Systems,100,2022-11-28,"[31.8371213, -86.61035609999998]",Group
+Florida State University,Texas,Islamic Studies ,200,2022-10-29,"[30.440477100000003, -84.290883]",Group
+University of Phoenix at California Children's Services - Santa Ana,Georgia,Biopsychology,800,2021-12-28,"[33.7492218, -117.8689629]",Group
+Johns Hopkins University at Mitre,Florida,Range Science and Management,500,2021-08-28,"[42.5042024, -71.2361911]",Partner
+National Louis University at Craig High School,Vermont,Ethnic Studies,500,2022-08-29,"[42.681726, -89.00075249999998]",Group
+Albertus Magnus College at Stratford Learning Center,Illinois,Aerospace Engineering,600,2021-07-27,"[41.164485600000006, -73.15671850000001]",Group
+Phillips Community College of The University of Arkansas - DeWitt Campus,Rhode Island,Environmental Design/Architecture,400,2021-11-28,"[34.2725796, -91.3488459]",Group
+"University of Phoenix at Vought Aircraft Industries, Inc.",Washington,Computer Engineering,400,2021-12-31,"[33.919667499999996, -118.335126]",Partner
+University of Phoenix at MetroHealth System Off-Site (Cleveland),Ohio,Pre-Seminary,800,2021-10-29,"[41.46077460000001, -81.69878620000001]",Group
+St. Patrick's Seminary and University,New Hampshire,Economics,500,2021-08-28,"[37.45672830000001, -122.167592]",Group
+Indiana Wesleyan University at Lake County Convention/Visitors Center,West Virginia,Women's Studies,500,2021-10-29,"[41.5710217, -87.4627963]",Partner
+Nazarene Bible College,Kentucky,Epidemiology,500,2022-12-28,"[38.944715, -104.8030565]",Group
+University of Phoenix at Presbyterian Hospital,Utah,Sports Management,100,2021-10-27,"[35.055112, -106.6254463]",Partner
+Concorde Career College - Aurora,Nebraska,Biotechnology,500,2021-12-27,"[39.7182107, -104.8659345]",Partner
+"Indiana Wesleyan University at Hampton Inn, Plainfield",Mississippi,Furniture Design,500,2021-10-29,"[39.675689500000004, -86.3673744]",Group
+Allstate Center,Virginia,Nursing,600,2022-07-29,"[27.7383543, -82.67818129999999]",Group
+"University of Arizona-Sunnyside, Los Ninos Elementary School",Rhode Island,Statistics ,200,2022-08-29,"[32.1531951, -110.90819270000001]",Group
+Saint Anthony College of Nursing,Arkansas,Athletic Training,300,2021-08-28,"[42.3095499, -88.9949611]",Partner
+Baker University at Osage City High School,Massachusetts,Webmaster and Web Management,200,2021-11-29,"[38.631051899999996, -95.8269619]",Partner
+Denver Seminary,Indiana,Air Traffic Control,200,2022-11-27,"[39.600584600000005, -105.02140619999999]",Group
+Florida Career College - Hialeah,Georgia,Teacher Education ,600,2022-07-31,"[25.8556829, -80.31930859999999]",Partner
+"Strayer University at HSBC, North America",Louisiana,Wildlife Management ,700,2021-09-27,"[36.7745121, -76.23867849999998]",Group
+Saint Elizabeth School of Nursing,Mississippi,Linguistics ,500,2021-09-27,"[40.427385799999996, -86.8806123]",Group
+University of Illinois at Urbana-Champaign at Shawnee Community College,Michigan,Religious Studies,400,2022-07-29,"[37.270476, -89.033354]",Partner
+Friends University at Southwest Plains Regional Service Center,Kansas,Art ,800,2022-08-30,"[37.4781816, -100.8584595]",Group
+Academy of Art - 60 Federal,Texas,Landscape Architecture ,200,2021-08-28,"[37.783294899999994, -122.39208159999998]",Partner
+Indiana Wesleyan University at Wheeler High School,Kansas,International Studies ,500,2022-10-29,"[41.4792721, -87.17921369999998]",Group
+PJ's College of Cosmetology,Wyoming,Printmaking ,600,2022-10-30,"[39.78457879999999, -85.7927508]",Partner
+College of the Siskiyous,Oregon,Comparative Literature ,200,2021-09-29,"[41.4126153, -122.38936979999998]",Partner
+Benedictine University at Batavia Fire Station #1,Ohio,English Literature,100,2021-09-30,"[41.851041200000004, -88.2926782]",Partner
+Concordia University Chicago at Gage  Park High School,Idaho,Microbiology ,400,2021-11-28,"[41.7910374, -87.6894698]",Partner
+William Penn University at Ankeny Site,Rhode Island,Biology,400,2021-09-28,"[41.7023056, -93.5970504]",Group
+Community College of Aurora - Lowry,Delaware,Botany/Plant Biology,100,2022-10-31,"[39.727419899999994, -104.8790752]",Group
+Morgan Community College,New Mexico,Agricultural/Biological Engineering and Bioengineering,500,2022-08-31,"[40.2589405, -103.7720041]",Group
+Asylum Ave.Campus (formerly Htfd.College for Women,Maine,Music Therapy,600,2022-10-29,"[41.774578999999996, -72.70588289999998]",Partner
+Hollywood Institute of Beauty Careers - North Bay Village,Oregon,Mental Health Services ,800,2021-08-29,"[25.848350399999998, -80.15482970000001]",Group
+Lancaster Beauty School,California,Food Science,100,2021-08-31,"[34.695148700000004, -118.1477175]",Group
+Brother Rice High School,Iowa,Biblical Studies,600,2022-12-31,"[41.711513700000005, -87.7201863]",Partner
+Housatonic Community College,Oregon,Music Therapy,700,2021-08-27,"[41.1744542, -73.1912881]",Partner
+Aero Adult/North City Center,Louisiana,Agriculture,500,2022-09-27,"[32.809053000000006, -117.14651869999999]",Group
+Ivy Tech Community College of Indiana at Seymour High School,Michigan,Musical Theater,200,2022-10-27,"[38.9564996, -85.90617440000001]",Partner
+Florida International University,Michigan,Industrial Management ,100,2022-10-30,"[25.7567674, -80.38200140000001]",Partner
+"Strayer University at Verizon Wireless, Chandler",Mississippi,Art History,500,2021-11-28,"[33.2924052, -111.9622023]",Group
+Aurora University at Belvidere North High School,Alaska,Sociology,600,2021-09-28,"[42.2885062, -88.8587007]",Partner
+University of Phoenix at City of Mesa - Downtown,Georgia,Music Therapy,100,2022-09-29,"[33.415606, -111.8309278]",Partner

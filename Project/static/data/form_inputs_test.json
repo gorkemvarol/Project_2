@@ -1,0 +1,172 @@
+[{
+        "school": "Bristol Community College at Taunton High School",
+        "state": "Georgia",
+        "subject": "Music",
+        "course_level": "500",
+        "time": "2022-10-29",
+        "location": "[41.9016176, -71.0713528]",
+        "group_type": "Partner"
+    },
+    {
+        "school": "University of Phoenix at Aurora",
+        "state": "Kansas",
+        "subject": "Music",
+        "course_level": "400",
+        "time": "2021-09-27",
+        "location": "[39.6594845, -104.8386216]",
+        "group_type": "Group"
+    },
+    {
+        "school": "Pacific Oaks College -  Sonrise Christian School",
+        "state": "Wyoming",
+        "subject": "Music",
+        "course_level": "500",
+        "time": "2022-08-31",
+        "location": "[34.089036799999995, -117.865575]",
+        "group_type": "Partner"
+    },
+    {
+        "school": "Triton College",
+        "state": "Iowa",
+        "subject": "Architectural Engineering",
+        "course_level": "800",
+        "time": "2021-10-28",
+        "location": "[41.91503779999999, -87.83885889999998]",
+        "group_type": "Partner"
+    },
+    {
+        "school": "Iowa Valley Community College District at Grinnell",
+        "state": "Pennsylvania",
+        "subject": "History",
+        "course_level": "700",
+        "time": "2022-10-31",
+        "location": "[41.7442764, -92.7243723]",
+        "group_type": "Partner"
+    },
+    {
+        "school": "Los Angeles Harbor College",
+        "state": "Montana",
+        "subject": "Medical Technology",
+        "course_level": "700",
+        "time": "2022-08-29",
+        "location": "[33.7841, -118.28408909999999]",
+        "group_type": "Group"
+    },
+    {
+        "school": "Fuller Theological Seminary (Orange County Regional Campus)",
+        "state": "Kentucky",
+        "subject": "Environmental Science",
+        "course_level": "400",
+        "time": "2022-11-29",
+        "location": "[33.688833100000004, -117.856273]",
+        "group_type": "Partner"
+    },
+    {
+        "school": "Southeastern University",
+        "state": "Delaware",
+        "subject": "Botany/Plant Biology",
+        "course_level": "100",
+        "time": "2021-07-29",
+        "location": "[28.030130600000003, -81.9179961]",
+        "group_type": "Group"
+    },
+    {
+        "school": "Maricopa Community Colleges - Mesa Community College at Downtown Center",
+        "state": "New Jersey",
+        "subject": "American Sign Language",
+        "course_level": "600",
+        "time": "2021-07-30",
+        "location": "[33.4187009, -111.8277007]",
+        "group_type": "Partner"
+    },
+    {
+        "school": "DePaul University - O'Hare Campus",
+        "state": "Delaware",
+        "subject": "Chiropractic",
+        "course_level": "100",
+        "time": "2022-09-28",
+        "location": "[41.99642539999999, -87.8622302]",
+        "group_type": "Group"
+    },
+    {
+        "school": "Feather River College",
+        "state": "Iowa",
+        "subject": "Geological Engineering ",
+        "course_level": "500",
+        "time": "2021-12-30",
+        "location": "[39.9530598, -120.97284350000001]",
+        "group_type": "Group"
+    },
+    {
+        "school": "Ivy Tech Community College of Indiana at Porter County Career and Technical Center",
+        "state": "Georgia",
+        "subject": "Chinese ",
+        "course_level": "400",
+        "time": "2021-08-30",
+        "location": "[41.477503000000006, -87.06016240000001]",
+        "group_type": "Group"
+    },
+    {
+        "school": "Butler County Community College - Butler of McConnell",
+        "state": "Florida",
+        "subject": "American History",
+        "course_level": "600",
+        "time": "2022-10-29",
+        "location": "[37.631151700000004, -97.25180040000001]",
+        "group_type": "Group"
+    },
+    {
+        "school": "West Side Campus",
+        "state": "California",
+        "subject": "Latin American Studies ",
+        "course_level": "600",
+        "time": "2021-08-30",
+        "location": "[41.390713399999996, -73.5026173]",
+        "group_type": "Group"
+    },
+    {
+        "school": "Western Illinois University at Central Intermediate School",
+        "state": "Oregon",
+        "subject": "Industrial Management ",
+        "course_level": "100",
+        "time": "2022-09-30",
+        "location": "[40.7071186, -89.42603299999998]",
+        "group_type": "Group"
+    },
+    {
+        "school": "Colby Community College",
+        "state": "Vermont",
+        "subject": "English Composition ",
+        "course_level": "200",
+        "time": "2022-11-28",
+        "location": "[39.377564500000005, -101.0528795]",
+        "group_type": "Group"
+    },
+    {
+        "school": "Illinois State University at Braun Educational Center",
+        "state": "Massachusetts",
+        "subject": "Human Resources Management ",
+        "course_level": "400",
+        "time": "2021-11-29",
+        "location": "[41.6185526, -87.76741589999997]",
+        "group_type": "Partner"
+    },
+    {
+        "school": "Celebrity Stylist Beauty School",
+        "state": "Missouri",
+        "subject": "Printmaking ",
+        "course_level": "600",
+        "time": "2021-09-28",
+        "location": "[32.5211889, -92.0855391]",
+        "group_type": "Partner"
+    },
+    {
+        "school": "Harrington College of Design",
+        "state": "New York",
+        "subject": "Health Administration",
+        "course_level": "300",
+        "time": "2021-08-28",
+        "location": "[41.8823135, -87.63431829999998]",
+        "group_type": "Partner"
+    }
+]

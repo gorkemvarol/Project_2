@@ -1,0 +1,20 @@
+-- SQLite
+
+-- login table 
+create table login(
+first_name TEXT,
+last_name TEXT,
+email_id TEXT,
+password TEXT,
+primary key(email_id));
+
+--study_group table
+create table study_group(
+school TEXT, 
+state TEXT, 
+subject TEXT, 
+course_level TEXT,
+time TEXT, 
+location TEXT, 
+group_type TEXT,
+PRIMARY KEY( school,subject,course_level,time ));

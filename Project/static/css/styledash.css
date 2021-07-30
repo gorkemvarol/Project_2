@@ -1,0 +1,9 @@
+/* jumbotran bg color*/
+
+.bg-color {
+    background-image: url('../Images/bio.jpg');
+}
+
+.dashboard {
+    color: black;
+}
